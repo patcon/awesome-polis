@@ -1,6 +1,17 @@
-# Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Polis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for using [IPFS](https://ipfs.tech) and building things on top of it
+:construction: Until this line is removed, please consider this a work-in-progress.
+
+[Full spreadsheet of all known resources][spreadsheet]
+
+<!-- Links -->
+   [spreadsheet]: https://docs.google.com/spreadsheets/d/1PNlYoIyN1_jS7CpHDImHcA8qW4UFuEDLVZe0p_C6V0w/edit#gid=0
+
+> Useful resources for using [Polis](https://pol.is/home) and building things on top of it
+
+_Everything below this line is experimental, and maybe not working yet._
+
+----
 
 _This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io)._
 
