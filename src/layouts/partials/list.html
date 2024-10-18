@@ -37,7 +37,13 @@
       </div>
 
       {{- if isset . "date" -}}
-        {{ template  "text" dateFormat "January 2, 2006" .date }}
+        {{- if findRE `^\d{4}$` .date -}}
+          {{ template  "text" dateFormat "2006" (print .date "-01-01") }}
+        {{- else if findRE `^\d{4}-\d{2}$` .date -}}
+          {{ template  "text" dateFormat "January 2006" (print .date "-01") }}
+        {{- else -}}
+          {{ template  "text" dateFormat "January 2, 2006" .date }}
+        {{- end -}}
       {{- end -}}
 
       {{- if isset . "description" -}}
