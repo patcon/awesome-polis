@@ -80,10 +80,19 @@ content:
       self-hosted server administrators.
   - title: "Polis Math module walk-through"
     website: "https://hackmd.io/@patcon/conversa-calls/https%3A%2F%2Fhackmd.io%2F%40patcon%2Fr1KpFakV_"
-    date: "2021-03-17"
+    date: "2021-03"
     description: >
       Notes from a walk-through of the Clojure math module of Polis, given by
       CompDem data scientist Chris Small during his technical office hours.
+  - title: "Holopolis Map"
+    website: "https://holopolis-map.pdis.tw/"
+    source: "https://github.com/PDIS/Holopolis-Map"
+    date: "2018-12"
+    picture: "/images/holopolis-map.png"
+    description: >
+      Web mobile app that through geolocalization and the use of stickers with
+      QR codes promotes democractic deliberation processes everywhere in the
+      world.
 #  - title: ""
 #    website: ""
 #    source: ""
