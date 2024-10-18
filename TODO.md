@@ -4,3 +4,4 @@
 - [ ] clear out old IPFS stuff
 - [ ] update README boilerplate
 - [ ] add workflow to build and deploy README
+- [ ] add dates to existing resources
