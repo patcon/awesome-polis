@@ -25,6 +25,10 @@ body {
   fill: white;
 }
 
+img.entry-picture {
+  min-width: 100%;
+}
+
 .CardContainer {
   column-count: 4;
   column-gap: 1em;

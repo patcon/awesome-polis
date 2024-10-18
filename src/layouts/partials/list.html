@@ -58,9 +58,9 @@
       <div class="mt2">
         <a target="_blank" class="no-underline charcoal" href="{{ if .website }}{{ .website }}{{ else if .source }}{{ .source }}{{ else if .demo }}{{ .demo }}{{ end }}">
           {{- if strings.HasPrefix .picture "/" -}}
-          <img class="br2" src="{{ .picture | relURL }}" >
+          <img class="br2 entry-picture" src="{{ .picture | relURL }}" >
           {{- else -}}
-          <img class="br2" src="{{ .picture }}" >
+          <img class="br2 entry-picture" src="{{ .picture }}" >
           {{- end -}}
         </a>
       </div>
