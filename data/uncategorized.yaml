@@ -1,6 +1,6 @@
 title: Uncategorized
 # See: https://github.com/ipfs-shipyard/ipfs-css/blob/main/theme.json
-color: yellow
+color: red
 # See: https://github.com/ipfs-shipyard/ipfs-css/tree/main/icons
 icon: stroke_distributed
 description: All uncategorized resources.
@@ -61,7 +61,6 @@ content:
     description: >
       The raw source material for this community-stewarded Awesome Polis
       directory.
-
 #  - title: ""
 #    website: ""
 #    source: ""
