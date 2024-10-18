@@ -46,7 +46,7 @@ content:
   - title: "Tolerance Carousel"
     website: "http://web.archive.org/web/20230908152124/https://www.reinwardt.ahk.nl/en/research-group-cultural-heritage/projects/project/0/re-tracing-history/"
     source: "https://github.com/tolerance-carousel/tolerance-carousel"
-    picture: "https://private-user-images.githubusercontent.com/2639851/307803440-4590dc06-d5a4-41d6-ba9f-d651d3957e34.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkyMzAzMTgsIm5iZiI6MTcyOTIzMDAxOCwicGF0aCI6Ii8yNjM5ODUxLzMwNzgwMzQ0MC00NTkwZGMwNi1kNWE0LTQxZDYtYmE5Zi1kNjUxZDM5NTdlMzQuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTAxOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEwMThUMDU0MDE4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YTdlMzg2YWNiMWYzZDg2NDkzZDkxNzMyMjRiMzIxODc3ZDNmZDAzNDE4MmYyNmQwMjVjZGJkZTdiODBlNDc5ZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.k7b-35y_rSftw_uwbhTMMVLPR6DQ08V9Y9EejHandKE"
+    picture: "/images/tolerance-carousel.jpg"
     description: >
       An interactive exhibit that integrated a fork of Polis into a multimedia
       Virtual Agora in-person event.
