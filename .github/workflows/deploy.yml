@@ -38,7 +38,8 @@ jobs:
       - name: Set specific node version
         uses: actions/setup-node@v4
         with:
-          node-version: 13
+          # Version with optional chaining "?." operator
+          node-version: 14
       - name: Build readme & website
         run: |
           npm --version
