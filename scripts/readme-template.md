@@ -10,8 +10,13 @@
 > Useful resources for using [Polis](https://pol.is/home) and building things on top of it
 
 ----
-
-_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io)._
+_Unlike some Awesome Lists, since the Polis development and practitioner
+community is rather nascent and disconnected, this list will start off as very
+COMPREHENSIVE, rather than CURATED. This means it will include code or projects
+even marginally related to Polis. This will include non-functional projects. At
+some point, once there is more maturity in the ecosystem, inactive or
+incomplete projects will likely migrated in a less prominent collaborative
+spreadsheet also listed amongst these resources._
 
 ## Table of Contents
 
