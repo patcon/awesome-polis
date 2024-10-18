@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+:construction: Until this line is removed, please consider this a work-in-progress.
+
 Please ensure your pull request adheres to the following guidelines:
 
 ### 1. Before submitting

@@ -6,7 +6,7 @@ function getData () {
   const data = require('./data')
 
   data.push({
-    title: 'Awesome IPFS',
+    title: 'Awesome Polis',
     slug: '_index',
     content: data
       .reduce((arr, cat) => arr.concat(cat.content), [])

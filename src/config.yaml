@@ -4,12 +4,12 @@ languageCode: en
 pluralizelisttitles: false
 removePathAccents: true
 canonifyURLs: true
-title: Awesome IPFS
+title: Awesome Polis
 
 disableKinds:
   - taxonomyTerm
 
 params:
   Description: >-
-    Useful resources for using IPFS and building things on top of it
+    Useful resources for using Polis and building things on top of it
   image: /images/banner.png
