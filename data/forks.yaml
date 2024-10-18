@@ -10,6 +10,34 @@ content:
     picture: "/images/tolerance-carousel.jpg"
     description: >
       Code for deployed fork of Polis that paired with the Tolerance Carousel project.
+  - title: "Demos UK"
+    website: "https://demos.co.uk/research/polis-and-the-political-process/"
+    source: "https://github.com/Demos-thinktank/polis/tree/demos-dev"
+    date: "2020-08"
+    picture: "https://demos.co.uk/wp-content/themes/demos/assets//images/logo.svg"
+    description: >
+      Polis fork run by the UK thinktank Demos.
+  - title: "Metropolis"
+    website: "https://poll.fil.org"
+    source: "https://github.com/canvasxyz/metropolis"
+    picture: ""
+    description: >
+      A new Polis frontend and collective-response tool, funded for Filecoin
+      governance and integrated with GitHub.
+  - title: "Demdis"
+    website: "https://www.demdis.sk/"
+    source: "https://github.com/Demdis/polis"
+    picture: "https://www.demdis.sk/content/images/2022/12/demdis-logo-1.png"
+    description: >
+      A Slovakian fork seeking to build a community around better ways of
+      engaging in divisive conversations.
+  - title: "Pushing Together (EJ Platform)"
+    website: "https://www.ejparticipe.org/"
+    source: "https://github.com/ejplatform"
+    picture: "https://avatars.githubusercontent.com/u/37082640?s=200&v=4"
+    description: >
+      A comprehensive platform an funded project to create a social
+      participation app based on Polis.
 #  - title: ""
 #    website: ""
 #    source: ""
