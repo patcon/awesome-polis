@@ -64,6 +64,26 @@ content:
       A "storybook" instance to display frontend UI components from Polis and
       its forks, to allow more collaboration and experimentation on UX and
       accessibility improvements.
+  - title: "Polis User Group (PUG) Discord"
+    website: "https://discord.com/invite/wFWB8kzQpP"
+    picture: "/images/discord.webp"
+    description: >
+      An unofficial Discord server for the Polis User Group (PUG). See PUG
+      entry for details.
+  - title: "Polis User Group (PUG)"
+    website: "https://hackmd.io/@patcon/conversa-calls/"
+    picture: "https://media.giphy.com/media/ePsV4lBfsrPmo/giphy.gif"
+    description: >
+      Landing page for a unofficial community for users and fans of the Polis
+      software project, for anyone eager to explore the tool/processes,
+      including prospective conversation moderators & participants, as well as
+      self-hosted server administrators.
+  - title: "Polis Math module walk-through"
+    website: "https://hackmd.io/@patcon/conversa-calls/https%3A%2F%2Fhackmd.io%2F%40patcon%2Fr1KpFakV_"
+    date: "2021-03-17"
+    description: >
+      Notes from a walk-through of the Clojure math module of Polis, given by
+      CompDem data scientist Chris Small during his technical office hours.
 #  - title: ""
 #    website: ""
 #    source: ""
