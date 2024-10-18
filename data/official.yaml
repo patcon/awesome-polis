@@ -48,6 +48,12 @@ content:
     description: >
       An official paper proposing modification to Twitter's Community Notes UI
       to support deliberative process.
+  - title: ""
+    tsource: "https://github.com/compdemocracy/polis-embed-examples"
+    picture: "/images/polis-banner.jpeg"
+    description: >
+      Examples illustrating how to embed a Polis conversation in another
+      website.
 #  - title: ""
 #    website: ""
 #    source: ""
