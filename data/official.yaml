@@ -4,7 +4,12 @@ color: aqua
 # See: https://github.com/ipfs-shipyard/ipfs-css/tree/main/icons
 icon: glyph_home
 description: Official resources stewarded by Computational Democracy Project.
-content: []
+content:
+  - title: Pol.is
+    website: https://pol.is/home
+    source: https://github.com/compdemocracy/polis
+    picture: "/images/polis-banner.jpeg"
+    description: Open Source AI for large scale open ended feedback
 #  - title: ""
 #    website: ""
 #    source: ""
