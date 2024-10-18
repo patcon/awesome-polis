@@ -56,6 +56,14 @@ content:
     description: >
       The raw source material for this community-stewarded Awesome Polis
       directory.
+  - title: "Storybook: Polis"
+    website: "https://civictechto.github.io/polis-storybook/"
+    source: "https://github.com/CivicTechTO/polis-storybook"
+    picture: "/images/storybook.png"
+    description: >
+      A "storybook" instance to display frontend UI components from Polis and
+      its forks, to allow more collaboration and experimentation on UX and
+      accessibility improvements.
 #  - title: ""
 #    website: ""
 #    source: ""
