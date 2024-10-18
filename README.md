@@ -41,6 +41,8 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Polis
 
+- [Participa infra](https://github.com/participa-lab/plataforma) - Deployment scripts for deploying Participa platform alongside a self-hosted Polis instance.
+- [Participa platform](https://participalab.uy/#polarizacion) - Alternative Polis administration app written in Python's Django framework. For self-hosted Polis conversations, aims to improve the interface, and add user management, without forking its Polis core. [Source](https://github.com/participa-lab/plataforma)
 - [Pol.is](https://pol.is/home) - Open Source AI for large scale open ended feedback [Source](https://github.com/compdemocracy/polis)
 
 ## Discussions
