@@ -57,7 +57,7 @@ content:
       A prototype React-Native mobile app for IRL voting in Polis conversations via scanning assigned NFC stickers.
   - title: "Polis Resources Spreadsheet"
     website: "https://docs.google.com/spreadsheets/d/1PNlYoIyN1_jS7CpHDImHcA8qW4UFuEDLVZe0p_C6V0w/edit#gid=0"
-    picture: ""
+    picture: "/images/spreadsheet.png"
     description: >
       The raw source material for this community-stewarded Awesome Polis
       directory.
