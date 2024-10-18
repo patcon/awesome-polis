@@ -45,7 +45,9 @@ jobs:
         env:
           BASE_URL: ${{ steps.configure-pages.outputs.base_url }}
         run: |
+          echo $BASE_URL
           echo "baseurl: '${BASE_URL}'" >> src/config.yaml
+          cat src/config.yaml
       - name: Build readme & website
         run: |
           npm --version
