@@ -26,7 +26,7 @@ content:
   - title: LegSim
     website: https://www.polisci.washington.edu/research/projects/legsim-legislative-simulation-wwwlegsimorg
     source: https://github.com/UWLegSim/legsim-public/
-    picture: http://www.congressionalbills.org/Picture1.png
+    picture: "/images/legsim.png"
     description: >
       A defunct virtual legislature platform founded in 2001 that integrated Polis.
   - title: "DigiFinland Polis tools v1"
