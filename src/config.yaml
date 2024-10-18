@@ -1,4 +1,8 @@
-baseurl: 'https://patcon.github.io/awesome-polis'
+# Commented out for local dev.
+# GitHub deploy process appends/overrides this value.
+# See: .github/workflows/deploy.yml
+#
+# baseurl: 'https://patcon.github.io/awesome-polis'
 relativeurls: true
 languageCode: en
 pluralizelisttitles: false

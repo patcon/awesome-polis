@@ -34,12 +34,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
+        id: configure-pages
         uses: actions/configure-pages@v5
       - name: Set specific node version
         uses: actions/setup-node@v4
         with:
           # Version with optional chaining "?." operator
           node-version: 14
+      - name: Configure baseUrl
+        run: echo "baseurl: '${{ steps.configure-pages.outputs.base_url }}'" >> src/config.yaml
       - name: Build readme & website
         run: |
           npm --version
