@@ -1,0 +1,10 @@
+title: Polis
+color: aqua
+icon: stroke_distributed
+description: All resources related to Polis
+content:
+  - title: Polis
+    website: https://pol.is/home
+    source: https://github.com/pol-is/polis
+    picture: https://pbs.twimg.com/profile_banners/2926744705/1466106872/300x100
+    description: Open Source AI for large scale open ended feedback
