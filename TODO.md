@@ -1,0 +1,6 @@
+- [ ] review contributing.md
+- [ ] review pull request template
+- [ ] review no-op discuss link
+- [ ] clear out old IPFS stuff
+- [ ] update README boilerplate
+- [ ] add workflow to build and deploy README
