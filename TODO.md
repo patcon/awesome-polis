@@ -6,3 +6,5 @@
 - [ ] add workflow to build and deploy README
 - [ ] add dates to existing resources
 - [x] update banner.png for social shares
+- [ ] add attribution to awesome-ipfs (specific commit)
+- [ ] review prior github actions
