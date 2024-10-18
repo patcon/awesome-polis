@@ -50,7 +50,12 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Official
 
+- [Guide: Integrating Polis with Citizens Assemblies](https://compdemocracy.org/polis/book/lottery-selected-assemblies/) - A guide for those who are thinking about the interaction between techniques for listening at scale and in-person deliberation
+- [Official Guide to Polis Methods v1](https://compdemocracy.org/polis/book/introduction/) - The table of contents for an incomplete stub of a currently unpublished Polis book.
+- 2023-06-20: [Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://www.researchgate.net/publication/371758108_Opportunities_and_Risks_of_LLMs_for_Scalable_Deliberation_with_Polis) - An official collaboratie paper with AnthropicAI, on applying LLMs to Polis outputs and processes.
 - [Pol.is](https://pol.is/home) - Open Source AI for large scale open ended feedback [Source](https://github.com/compdemocracy/polis)
+- [Polis Knowledge Base](https://compdemocracy.org/knowledge-base) - The Computational Democracy Project maintains an extensive (and growing) knowledge base for Polis and related facilitation methods.
+- 2021-04-29: [Polis: Scaling Deliberation by Mapping HighDimensional Opinion Spaces](https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558) - The authoritative paper on Polis internals and math.
 
 ## Uncategorized
 
@@ -60,7 +65,10 @@ Readme and the website are automatically generated. In order to add an element t
 - [Participa infra](https://github.com/participa-lab/plataforma) - Deployment scripts for deploying Participa platform alongside a self-hosted Polis instance.
 - [Participa platform](https://participalab.uy/#polarizacion) - Alternative Polis administration app written in Python's Django framework. For self-hosted Polis conversations, aims to improve the interface, and add user management, without forking its Polis core. [Source](https://github.com/participa-lab/plataforma)
 - [Polis IRL: Mobile NFC voting app](https://github.com/patcon/polis-like-nfc) - A prototype React-Native mobile app for IRL voting in Polis conversations via scanning assigned NFC stickers.
+- 2021-03-17: [Polis Math module walk-through](https://hackmd.io/@patcon/conversa-calls/https%3A%2F%2Fhackmd.io%2F%40patcon%2Fr1KpFakV_) - Notes from a walk-through of the Clojure math module of Polis, given by CompDem data scientist Chris Small during his technical office hours.
 - [Polis Resources Spreadsheet](https://docs.google.com/spreadsheets/d/1PNlYoIyN1_jS7CpHDImHcA8qW4UFuEDLVZe0p_C6V0w/edit#gid=0) - The raw source material for this community-stewarded Awesome Polis directory.
+- [Polis User Group (PUG)](https://hackmd.io/@patcon/conversa-calls/) - Landing page for a unofficial community for users and fans of the Polis software project, for anyone eager to explore the tool/processes, including prospective conversation moderators & participants, as well as self-hosted server administrators.
+- [Polis User Group (PUG) Discord](https://discord.com/invite/wFWB8kzQpP) - An unofficial Discord server for the Polis User Group (PUG). See PUG entry for details.
 - [Storybook: Polis](https://civictechto.github.io/polis-storybook/) - A "storybook" instance to display frontend UI components from Polis and its forks, to allow more collaboration and experimentation on UX and accessibility improvements. [Source](https://github.com/CivicTechTO/polis-storybook)
 - [Tolerance Carousel](http://web.archive.org/web/20230908152124/https://www.reinwardt.ahk.nl/en/research-group-cultural-heritage/projects/project/0/re-tracing-history/) - An interactive exhibit that integrated a fork of Polis into a multimedia Virtual Agora in-person event. [Source](https://github.com/tolerance-carousel/tolerance-carousel)
 
