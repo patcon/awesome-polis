@@ -39,8 +39,15 @@ content:
     date: "2023-06-20"
     picture: "/images/polis-llm-paper-2023.png"
     description: >
-      An official collaboratie paper with AnthropicAI, on applying LLMs to
+      An official collaborative paper with AnthropicAI, on applying LLMs to
       Polis outputs and processes.
+  - title: "“Coherent Mode” for the World’s Public Square"
+    website: "https://arxiv.org/abs/2211.12571"
+    date: "2022-11-24"
+    picture: "/images/polis-paper-2022.png"
+    description: >
+      An official paper proposing modification to Twitter's Community Notes UI
+      to support deliberative process.
 #  - title: ""
 #    website: ""
 #    source: ""
