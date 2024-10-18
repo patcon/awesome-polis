@@ -42,8 +42,10 @@ jobs:
           # Version with optional chaining "?." operator
           node-version: 14
       - name: Configure baseUrl
+        env:
+          BASE_URL: ${{ steps.configure-pages.outputs.base_url }}
         run: |
-          echo "baseurl: '${{ steps.configure-pages.outputs.base_url }}'" >> src/config.yaml
+          echo "baseurl: '${BASE_URL}'" >> src/config.yaml
       - name: Build readme & website
         run: |
           npm --version
