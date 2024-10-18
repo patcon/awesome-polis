@@ -7,8 +7,8 @@ const sort = (a, b) => {
 const sortInv = (a, b) => -sort(a, b)
 
 const sortAbc = (a, b) => {
-  a = a.toLowerCase()
-  b = b.toLowerCase()
+  a = a?.toLowerCase()
+  b = b?.toLowerCase()
   return sort(a, b)
 }
 
