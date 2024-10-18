@@ -10,6 +10,37 @@ content:
     source: https://github.com/compdemocracy/polis
     picture: "/images/polis-banner.jpeg"
     description: Open Source AI for large scale open ended feedback
+  - title: "Polis Knowledge Base"
+    website: "https://compdemocracy.org/knowledge-base"
+    picture: "/images/polis-banner.jpeg"
+    description: >
+      The Computational Democracy Project maintains an extensive (and growing)
+      knowledge base for Polis and related facilitation methods.
+  - title: "Guide: Integrating Polis with Citizens Assemblies"
+    website: "https://compdemocracy.org/polis/book/lottery-selected-assemblies/"
+    picture: "/images/polis-banner.jpeg"
+    description: >
+      A guide for those who are thinking about the interaction between
+      techniques for listening at scale and in-person deliberation
+  - title: "Official Guide to Polis Methods v1"
+    website: "https://compdemocracy.org/polis/book/introduction/"
+    picture: "/images/polis-banner.jpeg"
+    description: >
+      The table of contents for an incomplete stub of a currently unpublished
+      Polis book.
+  - title: "Polis: Scaling Deliberation by Mapping HighDimensional Opinion Spaces"
+    website: "https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558"
+    picture: "/images/polis-paper-2021.png"
+    date: "2021-04-29"
+    description: >
+      The authoritative paper on Polis internals and math.
+  - title: "Opportunities and Risks of LLMs for Scalable Deliberation with Polis"
+    website: "https://www.researchgate.net/publication/371758108_Opportunities_and_Risks_of_LLMs_for_Scalable_Deliberation_with_Polis"
+    date: "2023-06-20"
+    picture: "/images/polis-llm-paper-2023.png"
+    description: >
+      An official collaboratie paper with AnthropicAI, on applying LLMs to
+      Polis outputs and processes.
 #  - title: ""
 #    website: ""
 #    source: ""
