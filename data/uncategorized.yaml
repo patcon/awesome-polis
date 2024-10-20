@@ -270,7 +270,7 @@ content:
     description: >
       Wrapper for Polis discussion on Code for NL.
   - title: "Polis Whitelabel"
-    website: "https://polis.partici.app/4pcfr6wfeb"
+    website: "https://polis.partici.app/8vwsnjphnz"
     source: "https://gitlab.com/betabreak/polispilot/polis"
     picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
     date: "2023-12"
@@ -290,11 +290,11 @@ content:
     description: >
       PolisPilot is a demo Partici.app frontend for Polis, accessed via the ParticiAPI server.
   - title: "Partici.app"
-    website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=4pcfr6wfeb"
+    website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
     source: "https://gitlab.com/particiapp/particiapp-example-frontend"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
-      An Alternative Polis frontend, used in the PolisPilot demo.
+      An Alternative Polis frontend, used in the PolisPilot demo. (<a href="https://gitlab.com/betabreak/polispilot/polis-innovation/">Kanban board</a>)
   - title: "Partici.app Docker"
     source: "https://gitlab.com/particiapp/particiapp-docker"
     date: "2024-06"
@@ -304,7 +304,7 @@ content:
       Support infrastructure to host Partici.app and their Polis fork.
   - title: "ParticiAPI"
     date: "2024-06"
-    website: ""
+    website: "https://api.partici.app/api/conversations/8vwsnjphnz"
     source: "https://gitlab.com/particiapp/particiapi"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
