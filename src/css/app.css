@@ -29,6 +29,10 @@ img.entry-picture {
   min-width: 100%;
 }
 
+h1.title {
+  hyphens: auto;
+}
+
 .CardContainer {
   column-count: 4;
   column-gap: 1em;
