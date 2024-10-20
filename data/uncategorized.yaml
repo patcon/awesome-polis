@@ -137,66 +137,65 @@ content:
     picture: "https://wepublish.ch/wp-content/uploads/2020/11/cropped-wepublishlogo-1.png"
     description: >
       Open Source Headless CMS for Publishers and News Rooms, integrating Polis. Created in Switzerland.
- - title: "MyDemocracy.ca"
-   website: "https://mydem0cracy.ca/"
-   source: "https://github.com/CivicTechTO/MyDem0cracy.ca-site/"
-   picture: "https://mydem0cracy.ca/assets/img/mydem0cracy-logo.svg"
-   date: "2016-12"
-   description: >
-     Mini-site wrapping Polis for a citizen-run online consultation experiment.
- - title: "colinmegill/conference"
-   source: "https://github.com/colinmegill/conference"
-   date: "2014-09"
-   description: >
-     An app for conferences built around pol.is
- - title: "Talkto.NYC"
-   website: "http://talkto.nyc/"
-   source: "https://github.com/g0vNYC/talkto.nyc"
-   date: "2017-08"
-   picture: "https://pbs.twimg.com/profile_images/895417471427121154/yTaicNRb_400x400.jpg"
-   description: >
-     Polis-integrated media platform for the people of NYC to bring their ideas to city politics
- - title: "Conversa"
-   source: "https://github.com/conversa-app/conversa.cc"
-   date: "2019-02"
-   description: >
-     An experimental Ruby on Rails app attempting to reimplement the Polis frontend.
- - title: "polis-api-proxy"
-   website: "https://polis-api-proxy.onrender.com/api/v3/comments?conversation_id=3ntrtcehas"
-   source: "https://github.com/patcon/polis-api-proxy"
-   date: "2023-04"
-   description: >
-     A Pol.is API proxy for experimenting with different API design choices.
- - title: "polis-api-spec"
-   website: "https://patcon.github.io/polis-api-spec/swagger-ui/dist/?url=../../swagger.json"
-   source: "https://github.com/patcon/polis-api-spec/blob/master/_data/swagger.yml"
-   picture: "https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"
-   description: >
-     An interactive Swagger API spec for documenting and exploring the Polis API Proxy endpoints.
- - title: "PDIS/aframe-polis"
-   website: ""
-   source: "https://github.com/PDIS/aframe-polis/"
-   picture: "https://github.blog/wp-content/uploads/2024/05/aframe-logo-scene-Diego-Marcos.png?w=300"
-   description: >
-     An exploration of visualizing Polis results in the A-Frame web VR framework
- - title: "OpenSourcePolitics/decidim-efb"
-   website: "https://haddock.opensourcepolitics.eu/processes/test-process/f/101/"
-   source: "https://github.com/OpenSourcePolitics/decidim-efb"
-   picture: "https://tecnopolitica.net/sites/default/files/styles/centered_760/public/Screenshot%202021-11-25%20at%2015-24-11%20Decidim.png"
-   date: "2017-12"
-   description: >
-     An example Decidim codebase with the Decidim::Polis module installed
- - title: "OpenSourcePolitics/decidim-polis"
-   website: "https://haddock.opensourcepolitics.eu/processes/test-process/f/101/"
-   source: "https://github.com/OpenSourcePolitics/decidim-polis/"
-   picture: "https://tecnopolitica.net/sites/default/files/styles/centered_760/public/Screenshot%202021-11-25%20at%2015-24-11%20Decidim.png"
-   date: "2022-09"
-   description: >
-     Decidim module for integrating Polis into that platform.
-#  - title: ""
-#    website: ""
-#    source: ""
-#    picture: ""
-#    description: >
-#      X
-#
+  - title: "MyDemocracy.ca"
+    website: "https://mydem0cracy.ca/"
+    source: "https://github.com/CivicTechTO/MyDem0cracy.ca-site/"
+    picture: "https://mydem0cracy.ca/assets/img/mydem0cracy-logo.svg"
+    date: "2016-12"
+    description: >
+      Mini-site wrapping Polis for a citizen-run online consultation experiment.
+  - title: "colinmegill/conference"
+    source: "https://github.com/colinmegill/conference"
+    date: "2014-09"
+    description: >
+      An app for conferences built around pol.is
+  - title: "Talkto.NYC"
+    website: "http://talkto.nyc/"
+    source: "https://github.com/g0vNYC/talkto.nyc"
+    date: "2017-08"
+    picture: "https://pbs.twimg.com/profile_images/895417471427121154/yTaicNRb_400x400.jpg"
+    description: >
+      Polis-integrated media platform for the people of NYC to bring their ideas to city politics
+  - title: "Conversa"
+    source: "https://github.com/conversa-app/conversa.cc"
+    date: "2019-02"
+    description: >
+      An experimental Ruby on Rails app attempting to reimplement the Polis frontend.
+  - title: "polis-api-proxy"
+    website: "https://polis-api-proxy.onrender.com/api/v3/comments?conversation_id=3ntrtcehas"
+    source: "https://github.com/patcon/polis-api-proxy"
+    date: "2023-04"
+    description: >
+      A Pol.is API proxy for experimenting with different API design choices.
+  - title: "polis-api-spec"
+    website: "https://patcon.github.io/polis-api-spec/swagger-ui/dist/?url=../../swagger.json"
+    source: "https://github.com/patcon/polis-api-spec/blob/master/_data/swagger.yml"
+    picture: "https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"
+    description: >
+      An interactive Swagger API spec for documenting and exploring the Polis API Proxy endpoints.
+  - title: "PDIS/aframe-polis"
+    website: ""
+    source: "https://github.com/PDIS/aframe-polis/"
+    picture: "https://github.blog/wp-content/uploads/2024/05/aframe-logo-scene-Diego-Marcos.png?w=300"
+    description: >
+      An exploration of visualizing Polis results in the A-Frame web VR framework
+  - title: "OpenSourcePolitics/decidim-efb"
+    website: "https://haddock.opensourcepolitics.eu/processes/test-process/f/101/"
+    source: "https://github.com/OpenSourcePolitics/decidim-efb"
+    picture: "https://tecnopolitica.net/sites/default/files/styles/centered_760/public/Screenshot%202021-11-25%20at%2015-24-11%20Decidim.png"
+    date: "2017-12"
+    description: >
+      An example Decidim codebase with the Decidim::Polis module installed
+  - title: "OpenSourcePolitics/decidim-polis"
+    website: "https://haddock.opensourcepolitics.eu/processes/test-process/f/101/"
+    source: "https://github.com/OpenSourcePolitics/decidim-polis/"
+    picture: "https://tecnopolitica.net/sites/default/files/styles/centered_760/public/Screenshot%202021-11-25%20at%2015-24-11%20Decidim.png"
+    date: "2022-09"
+    description: >
+    Decidim module for integrating Polis into that platform.
+  # - title: ""
+  #   website: ""
+  #   source: ""
+  #   picture: ""
+  #   description: >
+  #     X
