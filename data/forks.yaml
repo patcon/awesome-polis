@@ -38,6 +38,19 @@ content:
     description: >
       A comprehensive platform an funded project to create a social
       participation app based on Polis.
+  - title: "DFE-Digital/polis-whitelabel"
+    website: "https://openpolicy.blog.gov.uk/2023/08/08/a-creative-technologist-working-in-policy-one-year-in/"
+    source: "https://github.com/DFE-Digital/polis-whitelabel"
+    picture: "https://openpolicy.blog.gov.uk/wp-content/uploads/sites/35/2016/07/Policy-Lab-Logo.jpeg"
+    description: >
+      A pared-down fork of Polis created by the Gov.UK Policy Lab
+  - title: "polispilot/polis-whitelabel"
+    website: "https://polis.partici.app/8vwsnjphnz"
+    source: "https://gitlab.com/betabreak/polispilot/polis"
+    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
+    date: "2023-12"
+    description: >
+      A very polished fork of Polis being built by affiliates of Code for NL, related to PolisPilot.
 #  - title: ""
 #    website: ""
 #    source: ""

@@ -48,7 +48,9 @@ Readme and the website are automatically generated. In order to add an element t
 
 - [Demdis](https://www.demdis.sk/) - A Slovakian fork seeking to build a community around better ways of engaging in divisive conversations. [Source](https://github.com/Demdis/polis)
 - 2020-08: [Demos UK](https://demos.co.uk/research/polis-and-the-political-process/) - Polis fork run by the UK thinktank Demos. [Source](https://github.com/Demos-thinktank/polis/tree/demos-dev)
+- [DFE-Digital/polis-whitelabel](https://openpolicy.blog.gov.uk/2023/08/08/a-creative-technologist-working-in-policy-one-year-in/) - A pared-down fork of Polis created by the Gov.UK Policy Lab [Source](https://github.com/DFE-Digital/polis-whitelabel)
 - [Metropolis](https://poll.fil.org) - A new Polis frontend and collective-response tool, funded for Filecoin governance and integrated with GitHub. [Source](https://github.com/canvasxyz/metropolis)
+- 2023-12: [polispilot/polis-whitelabel](https://polis.partici.app/8vwsnjphnz) - A very polished fork of Polis being built by affiliates of Code for NL, related to PolisPilot. [Source](https://gitlab.com/betabreak/polispilot/polis)
 - [Pushing Together (EJ Platform)](https://www.ejparticipe.org/) - A comprehensive platform an funded project to create a social participation app based on Polis. [Source](https://github.com/ejplatform)
 - [Tolerance Carousel](https://github.com/tolerance-carousel/polis_tolerance-carousel) - Code for deployed fork of Polis that paired with the Tolerance Carousel project.
 
@@ -101,7 +103,6 @@ Readme and the website are automatically generated. In order to add an element t
 - [Polis Resources Spreadsheet](https://docs.google.com/spreadsheets/d/1PNlYoIyN1_jS7CpHDImHcA8qW4UFuEDLVZe0p_C6V0w/edit#gid=0) - The raw source material for this community-stewarded Awesome Polis directory.
 - [Polis User Group (PUG)](https://hackmd.io/@patcon/conversa-calls/) - Landing page for a unofficial community for users and fans of the Polis software project, for anyone eager to explore the tool/processes, including prospective conversation moderators & participants, as well as self-hosted server administrators.
 - [Polis User Group (PUG) Discord](https://discord.com/invite/wFWB8kzQpP) - An unofficial Discord server for the Polis User Group (PUG). See PUG entry for details.
-- 2023-12: [Polis Whitelabel](https://polis.partici.app/8vwsnjphnz) - A very polished fork of Polis being built by affiliates of Code for NL, related to PolisPilot. [Source](https://gitlab.com/betabreak/polispilot/polis)
 - 2023-04: [polis-api-proxy](https://polis-api-proxy.onrender.com/api/v3/comments?conversation_id=3ntrtcehas) - A Pol.is API proxy for experimenting with different API design choices. [Source](https://github.com/patcon/polis-api-proxy)
 - [polis-api-spec](https://patcon.github.io/polis-api-spec/swagger-ui/dist/?url=../../swagger.json) - An interactive Swagger API spec for documenting and exploring the Polis API Proxy endpoints. [Source](https://github.com/patcon/polis-api-spec/blob/master/_data/swagger.yml)
 - 2024-06: [polis-moderator-hotkey](https://github.com/CivicTechTO/polis-moderator-hotkey) - A Chrome extension allow polis moderator to accept/reject comments with hotkeys

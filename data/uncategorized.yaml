@@ -269,13 +269,6 @@ content:
     picture: ""
     description: >
       Wrapper for Polis discussion on Code for NL.
-  - title: "Polis Whitelabel"
-    website: "https://polis.partici.app/8vwsnjphnz"
-    source: "https://gitlab.com/betabreak/polispilot/polis"
-    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
-    date: "2023-12"
-    description: >
-      A very polished fork of Polis being built by affiliates of Code for NL, related to PolisPilot.
   - title: "PolisPilot.nl"
     website: "https://polispilot.nl/"
     picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
