@@ -192,7 +192,156 @@ content:
     picture: "https://tecnopolitica.net/sites/default/files/styles/centered_760/public/Screenshot%202021-11-25%20at%2015-24-11%20Decidim.png"
     date: "2022-09"
     description: >
-    Decidim module for integrating Polis into that platform.
+      Decidim module for integrating Polis into that platform.
+  - title: "patcon/trump-polis-twitter-bot"
+    website: ""
+    source: "https://github.com/patcon/trump-polis-twitter-bot"
+    picture: ""
+    description: >
+      A Twitter bot to auto-create Pol.is conversations for each Donald Trump tweet.
+  - title: "patcon/polis-examples"
+    website: "https://patcon.github.io/polis-examples/"
+    source: "https://github.com/patcon/polis-examples"
+    picture: ""
+    description: >
+      Minimal sample apps for demonstrating various sorts of integrations. Notably includes passing vote/submit messages out of iframe via postMessage, and using Auth0 accounts.
+  - title: "patcon/polis-irl-simulator"
+    website: ""
+    source: "https://github.com/patcon/polis-irl-simulator"
+    picture: "https://camo.githubusercontent.com/64d060a935f5b89300fe9c5d7157e9ef66fe56d2ae2c0e3361f04880bb4c51eb/68747470733a2f2f692e696d6775722e636f6d2f316b4d684857692e676966"
+    description: >
+      A demo to show how Polis conversations might augment in-person meetings.
+  - title: "patcon/astro-test-polis"
+    website: "https://astro-test-polis.netlify.app/"
+    source: "https://github.com/patcon/astro-test-polis"
+    picture: ""
+    description: >
+      A sample wrapper app for a Polis conversation, built on Astro framework.
+  - title: "patcon/polis-exporter"
+    website: ""
+    source: "https://github.com/patcon/polis-exporter"
+    picture: ""
+    description: >
+      An unfinished, messy work-in-progress set of scripts attempting to generate a Polis zipped export archive from public API endpoints.
+  - title: "joshsmith2/polis-loadtesting"
+    website: ""
+    source: "https://github.com/joshsmith2/polis-loadtesting"
+    picture: ""
+    description: >
+      A series of Locust test to meaningfully load-test Pol.is instances
+  - title: "Demos-thinktank/dynata-id"
+    website: ""
+    source: "https://github.com/Demos-thinktank/dynata-id"
+    picture: ""
+    description: >
+      A small site built to receive incoming Dynata ids, show people an embedded Pol.is survey, and send them back off when done.
+  - title: "padagraph/vTaiwanAirBnbImporter"
+    website: ""
+    source: "https://github.com/padagraph/vTaiwanAirBnbImporter/"
+    date: "2016-06"
+    picture: ""
+    description: >
+      An experiment with Airbnb Pol.is data, importing it into graph database.
+  - title: "Polis Kubernetes Helm Chart"
+    website: ""
+    source: "https://github.com/understory-garden/charts/tree/main/src/polis"
+    date: "2020-11"
+    picture: ""
+    description: >
+      Configuration management code for setting up a Polis instance via Kubernetes.
+  - title: "audreyt/polis-tally"
+    website: ""
+    source: "https://github.com/audreyt/polis-tally"
+    date: "2019-03"
+    picture: ""
+    description: >
+      Polis export data and perl scripts for g0v.tw conversations, including Talkto.tw
+  - title: "Talk to Taiwan"
+    website: "https://web.archive.org/web/20170523073533/http://talkto.tw/talk/17"
+    source: "https://github.com/maylogger/talkto.tw.source"
+    picture: "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/e4f86b36293785.5716ade2c7605.png"
+    description: >
+       Source for generating the <a href="https://github.com/maylogger/talkto.tw">Talkto.tw website codebase</a>, which used Polis alongside livestreamed interviews of public figures.
+  - title: "codefornl/polis-splash"
+    website: ""
+    source: "https://github.com/codefornl/polis-splash"
+    date: "2021-02"
+    picture: ""
+    description: >
+      Wrapper for Polis discussion on Code for NL.
+  - title: "Polis Whitelabel"
+    website: "https://polis.partici.app/4pcfr6wfeb"
+    source: "https://gitlab.com/betabreak/polispilot/polis"
+    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
+    date: "2023-12"
+    description: >
+      A very polished fork of Polis being built by affiliates of Code for NL, related to PolisPilot.
+  - title: "PolisPilot.nl"
+    website: "https://polispilot.nl/"
+    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
+    date: "2023-12"
+    description: >
+      A very polished fork of Polis being built by affiliates of Code for NL
+  - title: "PolisPilot Demo"
+    website: "https://polispilot.nl/demo"
+    source: "https://gitlab.com/betabreak/polispilot/demo"
+    date: "2024-06"
+    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
+    description: >
+      PolisPilot is a demo Partici.app frontend for Polis, accessed via the ParticiAPI server.
+  - title: "Partici.app"
+    website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=4pcfr6wfeb"
+    source: "https://gitlab.com/particiapp/particiapp-example-frontend"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    description: >
+      An Alternative Polis frontend, used in the PolisPilot demo.
+  - title: "Partici.app Docker"
+    source: "https://gitlab.com/particiapp/particiapp-docker"
+    date: "2024-06"
+    website: ""
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    description: >
+      Support infrastructure to host Partici.app and their Polis fork.
+  - title: "ParticiAPI"
+    date: "2024-06"
+    website: ""
+    source: "https://gitlab.com/particiapp/particiapi"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    description: >
+      A server providing an alternative API on top of the Polis database, supporting third-party frontends for the Polis project.
+  - title: "Decidim-EJ"
+    website: ""
+    date: "2024-08"
+    source: "https://gitlab.com/lappis-unb/decidimbr/components-brasil-participativo/decidim-ej"
+    picture: "https://www.ejplatform.org/static/img/logo/logo.svg"
+    description: >
+      A Decidim module to integrate Pushing Together (EJ) into Decidim. (EJ was started by previous Polis users.)
+  - title: "Pushing Together (EJ)"
+    date: "2024-10"
+    website: "https://www.ejplatform.org/docs/"
+    source: "https://gitlab.com/pencillabs/ej/ej-application"
+    picture: "https://www.ejplatform.org/static/img/logo/logo.svg"
+    description: >
+      A platform using gamification and machine learning to promote discussions and participation in a virtual democracy. (EJ was started by previous Polis users.)
+  - title: "Pushing Together (EJ) bot"
+    date: "2024-10"
+    website: "https://www.ejplatform.org/docs/user-guides/pt-br/tools.html#telegram-e-whatsapp"
+    source: "https://gitlab.com/pencillabs/ej/ej-bot"
+    picture: "https://www.ejplatform.org/static/img/logo/logo.svg"
+    description: >
+      An opinion research chatbot for Telegram and WhatsApp. (EJ was started by previous Polis users.)
+  - title: "Code for NL Slack - PolisPilot"
+    website: "https://praatmee.codefor.nl/"
+    date: "2024-10"
+    source: ""
+    picture: ""
+    description: >
+      Join the active #polis channel in this Slack team to participate in projects PolisPilot / Partici.app
+  - title: "Creating new frontend(s) for Polis (Part 4/5)"
+    website: "https://sunweavers.net/blog/node/149"
+    date: "2024-10-03"
+    description: >
+      Part of a 5-post blog series about adapting and improving Polis for evaluation by several Dutch provincial governments and central government ministries
   # - title: ""
   #   website: ""
   #   source: ""
