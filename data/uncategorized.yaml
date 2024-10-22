@@ -261,7 +261,7 @@ content:
     source: "https://github.com/maylogger/talkto.tw.source"
     picture: "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/e4f86b36293785.5716ade2c7605.png"
     description: >
-       Source for generating the <a href=\"https://github.com/maylogger/talkto.tw\">Talkto.tw website codebase</a>, which used Polis alongside livestreamed interviews of public figures.
+      Source for generating the [Talkto.tw website codebase](https://github.com/maylogger/talkto.tw), which used Polis alongside livestreamed interviews of public figures.
   - title: "codefornl/polis-splash"
     website: ""
     source: "https://github.com/codefornl/polis-splash"
@@ -287,7 +287,7 @@ content:
     source: "https://gitlab.com/particiapp/particiapp-example-frontend"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
-      An Alternative Polis frontend, used in the PolisPilot demo. (<a href=\"https://gitlab.com/betabreak/polispilot/polis-innovation/\">Kanban board</a>)
+      An Alternative Polis frontend, used in the PolisPilot demo. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
   - title: "Partici.app Docker"
     source: "https://gitlab.com/particiapp/particiapp-docker"
     date: "2024-06"
