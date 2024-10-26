@@ -50,7 +50,19 @@ content:
     picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
     date: "2023-12"
     description: >
-      A very polished fork of Polis being built by affiliates of Code for NL, related to PolisPilot.
+      A modified deployment of the Polis codebase, called Partici.app. Built by affiliates of Code for NL, related to PolisPilot.
+  - title: "Polis deployment: Crowd Wisdom Project"
+    website: "https://polis.crowdwisdomproject.org/home"
+    source: "https://github.com/NewRedo/polis-fork"
+    picture: ""
+    description: >
+      An unmodified deployment of the Polis codebase, hosted by the UK-based Crowd Wisdom Project.
+  - title: "Polis deployment: Polis.tw"
+    website: "https://polis.tw/home"
+    source: "https://github.com/PDIS/polis2023"
+    picture: ""
+    description: >
+      An slightly modified deployment of the Polis codebase, hosted by PDIS.tw, a division of the Taiwanese national government.
 #  - title: ""
 #    website: ""
 #    source: ""
