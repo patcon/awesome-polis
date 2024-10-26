@@ -58,6 +58,8 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Official
 
+- [compdemocracy/openData](https://github.com/compdemocracy/openData) - Data exports from select "open data" Polis conversations
+- [compdemocracy/scripts](https://github.com/compdemocracy/scripts) - Scripts to streamline the running of the pol.is instance used in Policy Lab. Some of these will become features later on.
 - [Guide: Integrating Polis with Citizens Assemblies](https://compdemocracy.org/polis/book/lottery-selected-assemblies/) - A guide for those who are thinking about the interaction between techniques for listening at scale and in-person deliberation
 - [Official Guide to Polis Methods v1](https://compdemocracy.org/polis/book/introduction/) - The table of contents for an incomplete stub of a currently unpublished Polis book.
 - 2023-06-20: [Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://www.researchgate.net/publication/371758108_Opportunities_and_Risks_of_LLMs_for_Scalable_Deliberation_with_Polis) - An official collaborative paper with AnthropicAI, on applying LLMs to Polis outputs and processes.
