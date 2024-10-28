@@ -1,13 +1,14 @@
 # Awesome Polis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> A ~curated~ _comprehensive_ list of resources and tools for using [Polis][] and building things on top of it.
+
 :construction: Until this line is removed, please consider this a work-in-progress.
 
 [Full spreadsheet of all known resources][spreadsheet]
 
 <!-- Links -->
+   [Polis]: https://pol.is/home
    [spreadsheet]: https://docs.google.com/spreadsheets/d/1PNlYoIyN1_jS7CpHDImHcA8qW4UFuEDLVZe0p_C6V0w/edit#gid=0
-
-> Useful resources for using [Polis](https://pol.is/home) and building things on top of it
 
 ----
 _Unlike some Awesome Lists, since the Polis development and practitioner
