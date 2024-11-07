@@ -11,9 +11,9 @@ content:
     description: >
       Deployment scripts for deploying Participa platform alongside a
       self-hosted Polis instance.
-  - title: Participa platform
+  - title: Participa app
     website: https://participalab.uy/#polarizacion
-    source: https://github.com/participa-lab/plataforma
+    source: https://github.com/participa-lab/participa
     picture: https://participalab.uy/static/img/logo.svg
     description: >
       Alternative Polis administration app written in Python's Django framework. For self-hosted Polis conversations, aims to
@@ -335,6 +335,12 @@ content:
     date: "2024-10-03"
     description: >
       Part of a 5-post blog series about adapting and improving Polis for evaluation by several Dutch provincial governments and central government ministries
+  - title: "Twitter List: Polis-curious"
+    website: "https://twitter.com/i/lists/1367212756475260933"
+    source: ""
+    picture: ""
+    description: >
+      A Twitter list of folks who've built, used or just gotten really stoked about Polis or vTaiwan.
   # - title: ""
   #   website: ""
   #   source: ""
