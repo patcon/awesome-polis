@@ -21,9 +21,9 @@ function getData () {
 }
 
 function makeIndex (category) {
-  const data = category.content.map(({ index, title, description = '', tags = [], category = '' }) => ({
+  const data = category.content.map(({ index, title, description = '', tags = [], date, category = '' }) => ({
     ref: index,
-    data: `${title} ${description} ${tags.join(' ')} ${category}`
+    data: `${title} ${description} ${tags.join(' ')} ${date} ${category}`
   }))
 
   category.index = lunr(function () {
