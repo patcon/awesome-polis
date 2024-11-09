@@ -42,14 +42,14 @@ if (search) {
   search.classList.remove('dn')
   const input = search.querySelector('input')
 
-  function setSearchParam(searchParam) {
+  function setSearchParam (searchParam) {
     // Update the URL without adding to the search history
     const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?q=${encodeURIComponent(searchParam)}`
-    window.history.replaceState({path: newurl}, '', newurl)
+    window.history.replaceState({ path: newurl }, '', newurl)
   }
 
   // Function to handle search logic
-  function handleSearch(searchValue) {
+  function handleSearch (searchValue) {
     setSearchParam(searchValue)
 
     if (searchValue === '') {
