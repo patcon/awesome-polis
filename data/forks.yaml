@@ -8,6 +8,7 @@ content:
   - title: "Tolerance Carousel"
     source: "https://github.com/tolerance-carousel/polis_tolerance-carousel"
     picture: "/images/tolerance-carousel.jpg"
+    date: "2022-07"
     description: >
       Code for deployed fork of Polis that paired with the Tolerance Carousel project.
   - title: "Demos UK"
@@ -21,6 +22,7 @@ content:
     website: "https://poll.fil.org"
     source: "https://github.com/canvasxyz/metropolis"
     picture: ""
+    date: "2024-11"
     description: >
       A new Polis frontend and collective-response tool, funded for Filecoin
       governance and integrated with GitHub.
@@ -28,6 +30,7 @@ content:
     website: "https://www.demdis.sk/"
     source: "https://github.com/Demdis/polis"
     picture: "https://www.demdis.sk/content/images/2022/12/demdis-logo-1.png"
+    date: "2023-10"
     description: >
       A Slovakian fork seeking to build a community around better ways of
       engaging in divisive conversations.
@@ -35,6 +38,7 @@ content:
     website: "https://www.ejparticipe.org/"
     source: "https://github.com/ejplatform"
     picture: "https://avatars.githubusercontent.com/u/37082640?s=200&v=4"
+    date: "2023-05"
     description: >
       A comprehensive platform an funded project to create a social
       participation app based on Polis.
@@ -42,6 +46,7 @@ content:
     website: "https://openpolicy.blog.gov.uk/2023/08/08/a-creative-technologist-working-in-policy-one-year-in/"
     source: "https://github.com/DFE-Digital/polis-whitelabel"
     picture: "https://openpolicy.blog.gov.uk/wp-content/uploads/sites/35/2016/07/Policy-Lab-Logo.jpeg"
+    date: "2023-07"
     description: >
       A pared-down fork of Polis created by the Gov.UK Policy Lab
   - title: "polispilot/polis-whitelabel"
@@ -55,12 +60,14 @@ content:
     website: "https://polis.crowdwisdomproject.org/home"
     source: "https://github.com/NewRedo/polis-fork"
     picture: ""
+    date: "2021-03"
     description: >
       An unmodified deployment of the Polis codebase, hosted by the UK-based Crowd Wisdom Project.
   - title: "Polis deployment: Polis.tw"
     website: "https://polis.tw/home"
     source: "https://github.com/PDIS/polis2023"
     picture: ""
+    date: "2023-08"
     description: >
       An slightly modified deployment of the Polis codebase, hosted by PDIS.tw, a division of the Taiwanese national government.
   - title: "CodeWithAloha/HIERR"

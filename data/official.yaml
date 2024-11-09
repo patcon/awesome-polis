@@ -13,6 +13,7 @@ content:
   - title: "Polis Knowledge Base"
     website: "https://compdemocracy.org/knowledge-base"
     picture: "/images/polis-banner.jpeg"
+    date: "2024"
     description: >
       The Computational Democracy Project maintains an extensive (and growing)
       knowledge base for Polis and related facilitation methods.
@@ -49,21 +50,22 @@ content:
       An official paper proposing modification to Twitter's Community Notes UI
       to support deliberative process.
   - title: "Polis Embed Examples"
-    tsource: "https://github.com/compdemocracy/polis-embed-examples"
+    source: "https://github.com/compdemocracy/polis-embed-examples"
     picture: "/images/polis-banner.jpeg"
+    date: "2023-07"
     description: >
       Examples illustrating how to embed a Polis conversation in another
       website.
   - title: "compdemocracy/scripts"
-    website: ""
     source: "https://github.com/compdemocracy/scripts"
     picture: ""
+    date: "2023-01"
     description: >
       Scripts to streamline the running of the pol.is instance used in Policy Lab. Some of these will become features later on.
   - title: "compdemocracy/openData"
-    website: ""
     source: "https://github.com/compdemocracy/openData"
     picture: "/images/polis-banner.jpeg"
+    date: "2024-10"
     description: >
       Data exports from select "open data" Polis conversations
 #  - title: ""

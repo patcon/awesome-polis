@@ -8,6 +8,7 @@ content:
   - title: Participa infra
     source: https://github.com/participa-lab/plataforma
     picture: https://participalab.uy/static/img/logo.svg
+    date: "2024-09"
     description: >
       Deployment scripts for deploying Participa platform alongside a
       self-hosted Polis instance.
@@ -15,6 +16,7 @@ content:
     website: https://participalab.uy/#polarizacion
     source: https://github.com/participa-lab/participa
     picture: https://participalab.uy/static/img/logo.svg
+    date: "2024-11"
     description: >
       Alternative Polis administration app written in Python's Django framework. For self-hosted Polis conversations, aims to
       improve the interface, and add user management, without forking its Polis core.
@@ -28,6 +30,7 @@ content:
     website: "https://www.sitra.fi/en/projects/polis-platform-experiments/"
     source: "https://github.com/jylaroti/polis-digifinland-tools/"
     picture: "https://www.businessfinland.fi/4a969e/contentassets/9ac86913aefe4730a93a5f7b3cbbcd87/companylogo2"
+    date: "2023-04"
     description: >
       Set of deploy scripts, settings files, custom patches, translations and
       utilities for running Polis experiment deployments for DigiFinland.
@@ -35,6 +38,7 @@ content:
     website: "https://www.sitra.fi/en/projects/polis-platform-experiments/"
     source: "https://github.com/polis-digifinland/polis-digifinland"
     picture: "https://www.businessfinland.fi/4a969e/contentassets/9ac86913aefe4730a93a5f7b3cbbcd87/companylogo2"
+    date: "2024-09"
     description: >
       Set of deploy scripts, settings files, custom patches, translations and
       utilities for running Polis experiment deployments for DigiFinland.
@@ -42,17 +46,20 @@ content:
     website: "http://web.archive.org/web/20230908152124/https://www.reinwardt.ahk.nl/en/research-group-cultural-heritage/projects/project/0/re-tracing-history/"
     source: "https://github.com/tolerance-carousel/tolerance-carousel"
     picture: "/images/tolerance-carousel.jpg"
+    date: "2022-11"
     description: >
       An interactive exhibit that integrated a fork of Polis into a multimedia
       Virtual Agora in-person event.
   - title: "Polis IRL: Mobile NFC voting app"
     source: "https://github.com/patcon/polis-like-nfc"
     picture: "/images/polis-irl-nfc.png"
+    date: "2023-12"
     description: >
       A prototype React-Native mobile app for IRL voting in Polis conversations via scanning assigned NFC stickers.
   - title: "Polis Resources Spreadsheet"
     website: "https://docs.google.com/spreadsheets/d/1PNlYoIyN1_jS7CpHDImHcA8qW4UFuEDLVZe0p_C6V0w/edit#gid=0"
     picture: "/images/spreadsheet.png"
+    date: "2024-11"
     description: >
       The raw source material for this community-stewarded Awesome Polis
       directory.
@@ -60,6 +67,7 @@ content:
     website: "https://civictechto.github.io/polis-storybook/"
     source: "https://github.com/CivicTechTO/polis-storybook"
     picture: "/images/storybook.png"
+    date: "2024-10"
     description: >
       A "storybook" instance to display frontend UI components from Polis and
       its forks, to allow more collaboration and experimentation on UX and
@@ -97,6 +105,7 @@ content:
     website: "https://viewpoints.xyz/"
     source: "https://github.com/Goodheart-Labs/polislike"
     picture: "https://viewpoints.xyz/_next/image?url=%2Flogo.png&w=384&q=75"
+    date: "2024-09"
     description: >
       New UI experiment for a Polis-like platform.
   - title: "AIObjectives/talk-to-the-city-reports"
@@ -118,7 +127,6 @@ content:
       by analyzing detailed, qualitative data. It aggregates responses and
       arranges similar arguments into clusters.
   - title: "AIObjectives/community-notes-experiment"
-    website: ""
     date: "2023-10"
     source: "https://github.com/AIObjectives/community-notes-experiment"
     description: >
@@ -137,6 +145,7 @@ content:
       hotkeys
   - title: "Generative Policy"
     source: "https://github.com/QuantumArjun/generative-policy"
+    date: "2024-09"
     description: >
       A research project to help create simulated preliminary policy
       recommendations, by simulating a Polis engagement with LLMs.
@@ -144,6 +153,7 @@ content:
     website: "https://wepublish.ch/fr/"
     source: "https://github.com/wepublish/wepublish"
     picture: "https://wepublish.ch/wp-content/uploads/2020/11/cropped-wepublishlogo-1.png"
+    date: "2024-11"
     description: >
       Open Source Headless CMS for Publishers and News Rooms, integrating Polis. Created in Switzerland.
   - title: "MyDemocracy.ca"
@@ -170,22 +180,23 @@ content:
     date: "2019-02"
     description: >
       An experimental Ruby on Rails app attempting to reimplement the Polis frontend.
-  - title: "polis-api-proxy"
+  - title: "patcon/polis-api-proxy"
     website: "https://polis-api-proxy.onrender.com/api/v3/comments?conversation_id=3ntrtcehas"
     source: "https://github.com/patcon/polis-api-proxy"
     date: "2023-04"
     description: >
       A Pol.is API proxy for experimenting with different API design choices.
-  - title: "polis-api-spec"
+  - title: "patcon/polis-api-spec"
     website: "https://patcon.github.io/polis-api-spec/swagger-ui/dist/?url=../../swagger.json"
     source: "https://github.com/patcon/polis-api-spec/blob/master/_data/swagger.yml"
     picture: "https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"
+    date: "2024-10"
     description: >
       An interactive Swagger API spec for documenting and exploring the Polis API Proxy endpoints.
   - title: "PDIS/aframe-polis"
-    website: ""
     source: "https://github.com/PDIS/aframe-polis/"
     picture: "https://github.blog/wp-content/uploads/2024/05/aframe-logo-scene-Diego-Marcos.png?w=300"
+    date: "2017-07"
     description: >
       An exploration of visualizing Polis results in the A-Frame web VR framework
   - title: "OpenSourcePolitics/decidim-efb"
@@ -203,63 +214,63 @@ content:
     description: >
       Decidim module for integrating Polis into that platform.
   - title: "patcon/trump-polis-twitter-bot"
-    website: ""
+    website: "https://x.com/discussdadonald"
     source: "https://github.com/patcon/trump-polis-twitter-bot"
-    picture: ""
+    picture: "https://pbs.twimg.com/profile_images/816141267855781888/LBxAfM1U_400x400.jpg"
+    date: "2017-01"
     description: >
       A Twitter bot to auto-create Pol.is conversations for each Donald Trump tweet.
   - title: "patcon/polis-examples"
     website: "https://patcon.github.io/polis-examples/"
     source: "https://github.com/patcon/polis-examples"
     picture: ""
+    date: "2021-01"
     description: >
       Minimal sample apps for demonstrating various sorts of integrations. Notably includes passing vote/submit messages out of iframe via postMessage, and using Auth0 accounts.
   - title: "patcon/polis-irl-simulator"
-    website: ""
     source: "https://github.com/patcon/polis-irl-simulator"
     picture: "https://camo.githubusercontent.com/64d060a935f5b89300fe9c5d7157e9ef66fe56d2ae2c0e3361f04880bb4c51eb/68747470733a2f2f692e696d6775722e636f6d2f316b4d684857692e676966"
+    date: "2022-02"
     description: >
       A demo to show how Polis conversations might augment in-person meetings.
   - title: "patcon/astro-test-polis"
     website: "https://astro-test-polis.netlify.app/"
     source: "https://github.com/patcon/astro-test-polis"
     picture: ""
+    date: "2024-04"
     description: >
       A sample wrapper app for a Polis conversation, built on Astro framework.
   - title: "patcon/polis-exporter"
-    website: ""
     source: "https://github.com/patcon/polis-exporter"
     picture: ""
+    date: "2024-08"
     description: >
       An unfinished, messy work-in-progress set of scripts attempting to generate a Polis zipped export archive from public API endpoints.
   - title: "joshsmith2/polis-loadtesting"
-    website: ""
     source: "https://github.com/joshsmith2/polis-loadtesting"
     picture: ""
+    date: "2020-05"
     description: >
       A series of Locust test to meaningfully load-test Pol.is instances
   - title: "Demos-thinktank/dynata-id"
-    website: ""
     source: "https://github.com/Demos-thinktank/dynata-id"
     picture: ""
+    date: "2020-08"
     description: >
       A small site built to receive incoming Dynata ids, show people an embedded Pol.is survey, and send them back off when done.
   - title: "padagraph/vTaiwanAirBnbImporter"
-    website: ""
     source: "https://github.com/padagraph/vTaiwanAirBnbImporter/"
     date: "2016-06"
     picture: ""
     description: >
       An experiment with Airbnb Pol.is data, importing it into graph database.
   - title: "Polis Kubernetes Helm Chart"
-    website: ""
     source: "https://github.com/understory-garden/charts/tree/main/src/polis"
     date: "2020-11"
     picture: ""
     description: >
       Configuration management code for setting up a Polis instance via Kubernetes.
   - title: "audreyt/polis-tally"
-    website: ""
     source: "https://github.com/audreyt/polis-tally"
     date: "2019-03"
     picture: ""
@@ -269,10 +280,10 @@ content:
     website: "https://web.archive.org/web/20170523073533/http://talkto.tw/talk/17"
     source: "https://github.com/maylogger/talkto.tw.source"
     picture: "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/e4f86b36293785.5716ade2c7605.png"
+    date: "2016-03"
     description: >
       Source for generating the [Talkto.tw website codebase](https://github.com/maylogger/talkto.tw), which used Polis alongside livestreamed interviews of public figures.
   - title: "codefornl/polis-splash"
-    website: ""
     source: "https://github.com/codefornl/polis-splash"
     date: "2021-02"
     picture: ""
@@ -295,12 +306,12 @@ content:
     website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
     source: "https://gitlab.com/particiapp/particiapp-example-frontend"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    date: "2024-06"
     description: >
       An Alternative Polis frontend, used in the PolisPilot demo. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
   - title: "Partici.app Docker"
     source: "https://gitlab.com/particiapp/particiapp-docker"
     date: "2024-06"
-    website: ""
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
       Support infrastructure to host Partici.app and their Polis fork.
@@ -312,7 +323,6 @@ content:
     description: >
       A server providing an alternative API on top of the Polis database, supporting third-party frontends for the Polis project.
   - title: "Decidim-EJ"
-    website: ""
     date: "2024-08"
     source: "https://gitlab.com/lappis-unb/decidimbr/components-brasil-participativo/decidim-ej"
     picture: "https://www.ejplatform.org/static/img/logo/logo.svg"
@@ -364,14 +374,13 @@ content:
     website: "https://argmap.bhatia.dev/"
     source: "https://github.com/aadityabhatia/polis-argmap"
     picture: "https://argmap.bhatia.dev/images/13-analysis.webp"
-    date: "2024-05-09"
+    date: "2024-05"
     description: >
       Polis Argument Mapping to Guide Policy Decisions. How can large language
       models enable us to ingest massive streams of unstructured information,
       incorporate diverse perspectives and distill them into actionable
       insights that demonstrably align with public opinion?
   - title: "NewJerseyStyle/LitePolis"
-    website: ""
     source: "https://github.com/NewJerseyStyle/LitePolis/tree/develop"
     picture: ""
     date: "2024-05-09"
@@ -386,9 +395,8 @@ content:
     description: >
       Plural Polis Discourse, is a forum plugin to integrating Polis into a
       Discourse fork. It is cited in the linked paper as a demo of a
-      collusion-resistance communication channel.
+      collusion-resistant communication channel.
   - title: "PluralCC/plural-discourse"
-    website: ""
     source: "https://github.com/discourse/discourse/compare/main...PluralCC:plural-discourse:main"
     picture: "https://avatars.githubusercontent.com/u/128382001?s=300&v=4"
     date: "2023-05"
