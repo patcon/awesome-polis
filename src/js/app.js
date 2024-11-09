@@ -57,8 +57,13 @@ if (search) {
       return
     }
 
+    // Allow matching when fragment.
+    // E.g., "fin" will match any of "finland", of "digifinland"
+    //
+    // TODO: Fix this so it works with multiple words.
+    // E.g., "test finland" filters differently than "finland test"
     if (!searchValue.endsWith('*')) {
-      searchValue = `${searchValue} ${searchValue}*`
+      searchValue = `${searchValue} *${searchValue}*`
     }
 
     try {
