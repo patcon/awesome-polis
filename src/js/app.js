@@ -36,42 +36,42 @@ function update (display) {
   })
 }
 
+function setSearchParam (searchParam) {
+  // Update the URL without adding to the search history
+  const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?q=${encodeURIComponent(searchParam)}`
+  window.history.replaceState({ path: newurl }, '', newurl)
+}
+
+// Function to handle search logic
+function handleSearch (searchValue) {
+  setSearchParam(searchValue)
+
+  if (searchValue === '') {
+    cards.forEach((c) => c.classList.remove('dn'))
+    return
+  }
+
+  // Allow matching when fragment.
+  // E.g., "fin" will match any of "finland", of "digifinland"
+  //
+  // TODO: Fix this so it works with multiple words.
+  // E.g., "test finland" filters differently than "finland test"
+  if (!searchValue.endsWith('*')) {
+    searchValue = `${searchValue} *${searchValue}*`
+  }
+
+  try {
+    update(idx.search(searchValue).map(s => s.ref))
+  } catch (e) {
+    console.log(e)
+  }
+}
+
 randomizr()
 
 if (search) {
   search.classList.remove('dn')
   const input = search.querySelector('input')
-
-  function setSearchParam (searchParam) {
-    // Update the URL without adding to the search history
-    const newurl = `${window.location.protocol}//${window.location.host}${window.location.pathname}?q=${encodeURIComponent(searchParam)}`
-    window.history.replaceState({ path: newurl }, '', newurl)
-  }
-
-  // Function to handle search logic
-  function handleSearch (searchValue) {
-    setSearchParam(searchValue)
-
-    if (searchValue === '') {
-      cards.forEach((c) => c.classList.remove('dn'))
-      return
-    }
-
-    // Allow matching when fragment.
-    // E.g., "fin" will match any of "finland", of "digifinland"
-    //
-    // TODO: Fix this so it works with multiple words.
-    // E.g., "test finland" filters differently than "finland test"
-    if (!searchValue.endsWith('*')) {
-      searchValue = `${searchValue} *${searchValue}*`
-    }
-
-    try {
-      update(idx.search(searchValue).map(s => s.ref))
-    } catch (e) {
-      console.log(e)
-    }
-  }
 
   // Parse the URL and get the 'q' query parameter
   const params = new URLSearchParams(window.location.search)
