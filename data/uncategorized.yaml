@@ -341,6 +341,16 @@ content:
     picture: ""
     description: >
       A Twitter list of folks who've built, used or just gotten really stoked about Polis or vTaiwan.
+  - title: "Toward building deliberative digital media: From subversion to consensus"
+    website: "https://academic.oup.com/pnasnexus/article/3/10/pgae407/7821166"
+    source: ""
+    picture: "/images/pentland-paper.png"
+    date: "2024-10-15"
+    description: >
+      This paper (Pentland & Tsai) analyzes Polis "to illustrate how social
+      science might enable design of next-generation digital media suitable for
+      democratic deliberation, and in which generative artificial intelligence
+      might be useful."
   # - title: ""
   #   website: ""
   #   source: ""
