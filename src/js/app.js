@@ -42,22 +42,33 @@ if (search) {
   search.classList.remove('dn')
   const input = search.querySelector('input')
 
-  input.addEventListener('keyup', () => {
-    let search = input.value
-
-    if (search === '') {
+  // Function to handle search logic
+  function handleSearch(searchValue) {
+    if (searchValue === '') {
       cards.forEach((c) => c.classList.remove('dn'))
       return
     }
 
-    if (!search.endsWith('*')) {
-      search = `${search} ${search}*`
+    if (!searchValue.endsWith('*')) {
+      searchValue = `${searchValue} ${searchValue}*`
     }
 
     try {
-      update(idx.search(search).map(s => s.ref))
+      update(idx.search(searchValue).map(s => s.ref))
     } catch (e) {
       console.log(e)
     }
+  }
+
+  // Parse the URL and get the 'q' query parameter
+  const params = new URLSearchParams(window.location.search)
+  const query = params.get('q')
+  if (query) {
+    input.value = query // Set the input value to the 'q' parameter
+    handleSearch(query)
+  }
+
+  input.addEventListener('keyup', () => {
+    handleSearch(input.value)
   })
 }
