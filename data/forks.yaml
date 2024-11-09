@@ -63,6 +63,16 @@ content:
     picture: ""
     description: >
       An slightly modified deployment of the Polis codebase, hosted by PDIS.tw, a division of the Taiwanese national government.
+  - title: "CodeWithAloha/HIERR"
+    website: "https://hierr-histategis.hub.arcgis.com/"
+    source: "https://github.com/CodeWithAloha/HIERR"
+    picture: "https://raw.githubusercontent.com/CodeWithAloha/HIERR/refs/heads/main/docs/logos/hierr.png"
+    date: "2024-10"
+    description: >
+      Hawaiʻi Economic Recovery & Resilience (HIERR) is a digital engagement
+      platform wrapping around Polis and providing onboarding materials to
+      solicit resident sentiments on vision and value statements for Hawaii's
+      economic future.
 #  - title: ""
 #    website: ""
 #    source: ""

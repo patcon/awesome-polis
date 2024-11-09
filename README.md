@@ -47,6 +47,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Forks & Deployments
 
+- 2024-10: [CodeWithAloha/HIERR](https://hierr-histategis.hub.arcgis.com/) - Hawaiʻi Economic Recovery & Resilience (HIERR) is a digital engagement platform wrapping around Polis and providing onboarding materials to solicit resident sentiments on vision and value statements for Hawaii's economic future. [Source](https://github.com/CodeWithAloha/HIERR)
 - [Demdis](https://www.demdis.sk/) - A Slovakian fork seeking to build a community around better ways of engaging in divisive conversations. [Source](https://github.com/Demdis/polis)
 - 2020-08: [Demos UK](https://demos.co.uk/research/polis-and-the-political-process/) - Polis fork run by the UK thinktank Demos. [Source](https://github.com/Demos-thinktank/polis/tree/demos-dev)
 - [DFE-Digital/polis-whitelabel](https://openpolicy.blog.gov.uk/2023/08/08/a-creative-technologist-working-in-policy-one-year-in/) - A pared-down fork of Polis created by the Gov.UK Policy Lab [Source](https://github.com/DFE-Digital/polis-whitelabel)
