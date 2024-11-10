@@ -87,6 +87,14 @@ content:
     description: >
       Suburb is an experimental fork of Polis, with cleanup in code and
       infrastructure requirements.
+  - title: "PolisOrbis"
+    source: "https://gitlab.com/copernicani/polisorbis/codebase"
+    website: "https://doc.polisorbis.copernicani.it/overview/"
+    date: "2024-09"
+    description: >
+      PolisOrbis is a Polis fork with extensive rewrites, aiming for GDPR
+      compliance, OpenID Connect auth support, and improved docs, among other
+      things.
 #  - title: ""
 #    website: ""
 #    source: ""
