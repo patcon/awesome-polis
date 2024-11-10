@@ -403,6 +403,70 @@ content:
     description: >
       A Discourse Forum fork intended to be used with the Polis-integrating
       `pcc-consensus-polling` Discourse plugin.
+  - title: "ourcity/minneapolis"
+    source: "https://github.com/ourcity/minneapolis"
+    picture: "https://avatars.githubusercontent.com/u/7843734?s=300"
+    date: "2014-09"
+    description: >
+      A platform for creating more transparency and engagement with local
+      government processes in Minneapolis. Groups council agenda items into
+      larger issues, and integrates Polis conversations to explore those issues.
+  - title: "Doc: Holopolis - Demo Next Democracy"
+    website: "https://docs.google.com/document/d/17-TZX-A6ysES5VLb18kv2jmWqajkYURRZacmyQ5fPgk/edit"
+    picture: "/images/pdis-logo.jpg"
+    date: "2017-07"
+    description: >
+      Holopolis was an open project launched by PDIS and Pol.is  with the help
+      of Microsoft Hololens Team and Re:public Inc.
+  - title: "RxC Voice"
+    website: "https://voice.radicalxchange.org/"
+    source: "https://github.com/RadicalxChange/rxc-voice"
+    picture: "/images/rxc-voice.png"
+    date: "2022-06"
+    description: >
+      RadicalxChange Voice is an app for decentralized democratic governance.
+  - title: "RxC Conversations"
+    source: "https://github.com/RadicalxChange/rxc-voice/tree/development/polis-app"
+    picture: "https://raw.githubusercontent.com/RadicalxChange/rxc-voice/refs/heads/development/polis-app/src/assets/logo.svg"
+    date: "2022-06"
+    description: >
+      A wrapper for Polis conversations held in the RadicalxChange community.
+  - title: "jerojero/polis-tribu"
+    source: "https://github.com/jerojero/polis-tribu"
+    picture: "https://pbs.twimg.com/profile_images/1149221479059533826/fnDPomW6_400x400.png"
+    date: "2021-10"
+    description: >
+      Polis implementation for [Tribu](https://tribu.ong/) (a Chilean NGO), it
+      includes a complete website with a database that leverages the xid method
+      of the polis embedded conversation to identify users uniquely.
+  - title: "ballPointPenguin/polis-playbook"
+    source: "https://github.com/ballPointPenguin/polis-playbook"
+    date: "2020-06"
+    description: >
+      Ansible playbook for deployment of Polis instances.
+  - title: "PDIS helper scripts"
+    source: "https://github.com/PDIS/polisServer-archived/tree/local-polis/hackScript"
+    picture: "/images/pdis-logo.jpg"
+    date: "2019-11"
+    description: >
+      PDIS.tw scripts for performing various tasks directly on the Polis
+      database of self-hosted instances.
+  - title: "PDIS/holopolis2017"
+    source: "https://github.com/PDIS/holopolis2017"
+    picture: "/images/pdis-logo.jpg"
+    date: "2017-11"
+    description: >
+      Polis-inspired Holopolis experiments in 3D, based on both
+      [Overte VR](https://github.com/overte-org/overte)
+      ([née](https://www.reddit.com/r/OutOfTheLoop/comments/ycpte4/whats_up_with_oasis_vr_and_high_fidelity/)
+      High Fidelity) and Unity VR platforms.
+  - title: "proyectourgente/cuestionario-luc"
+    source: "https://github.com/proyectourgente/cuestionario-luc"
+    website: "https://web.archive.org/web/20211202162952/http://luc.com.uy/"
+    picture: "/images/pdis-logo.jpg"
+    date: "2022-03"
+    description: >
+      Polis-inspired Holopolis experiments in 3D, based on both
   # - title: ""
   #   website: ""
   #   source: ""

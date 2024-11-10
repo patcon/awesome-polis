@@ -69,7 +69,8 @@ content:
     picture: ""
     date: "2023-08"
     description: >
-      An slightly modified deployment of the Polis codebase, hosted by PDIS.tw, a division of the Taiwanese national government.
+      An slightly modified deployment of the Polis codebase, hosted by PDIS.tw,
+      a division of the Taiwanese national government.
   - title: "CodeWithAloha/HIERR"
     website: "https://hierr-histategis.hub.arcgis.com/"
     source: "https://github.com/CodeWithAloha/HIERR"
@@ -80,6 +81,12 @@ content:
       platform wrapping around Polis and providing onboarding materials to
       solicit resident sentiments on vision and value statements for Hawaii's
       economic future.
+  - title: "sirodoht/suburb"
+    source: "https://github.com/sirodoht/suburb/"
+    date: "2022-11"
+    description: >
+      Suburb is an experimental fork of Polis, with cleanup in code and
+      infrastructure requirements.
 #  - title: ""
 #    website: ""
 #    source: ""
