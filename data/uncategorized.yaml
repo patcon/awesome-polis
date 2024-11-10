@@ -462,11 +462,42 @@ content:
       High Fidelity) and Unity VR platforms.
   - title: "proyectourgente/cuestionario-luc"
     source: "https://github.com/proyectourgente/cuestionario-luc"
-    website: "https://web.archive.org/web/20211202162952/http://luc.com.uy/"
-    picture: "/images/pdis-logo.jpg"
+    website: "https://compdemocracy.org/Case-studies/2021-Uruguay-national-referendum/"
+    picture: "https://avatars.githubusercontent.com/u/102421534?s=300&v=4"
     date: "2022-03"
     description: >
-      Polis-inspired Holopolis experiments in 3D, based on both
+      The website code ([hosted archive](https://web.archive.org/web/20211202162952/http://luc.com.uy/))
+      and collected data of the Polis experiment running in the months prior to
+      the LUC referendum in Uruguay.
+  - title: "PDIS/sandstorm-external-site"
+    source: "https://github.com/PDIS/sandstorm-external-site/tree/polis"
+    picture: "/images/pdis-logo.jpg"
+    date: "2017-06"
+    description: >
+      A sandstorm auth wrapper for Polis.
+  - title: "NewVote/newvote-rhok"
+    source: "https://github.com/NewVote/newvote-rhok"
+    website: "https://newvote.org/the-app"
+    picture: "https://images.squarespace-cdn.com/content/v1/59422e279f74562727baa701/1560256385656-ASHDJCWMZMW6O6NNPC5V/Final_Files_RGB-01.png?format=2500w"
+    date: "2020-08"
+    description: >
+      NewVote was an online crowd-sourcing tool in Australia that integrates
+      Polis, supports co-design, communication and decision-making.
+  - title: "shuyanglin/vtaiwan-openai-2023"
+    source: "https://github.com/shuyanglin/vtaiwan-openai-2023"
+    website: "https://vtaiwan-openai-2023.vercel.app/"
+    picture: "https://pbs.twimg.com/profile_images/1047536947743272960/VNpz6oOn_400x400.jpg"
+    date: "2023-10"
+    description: >
+      A vTaiwan banner website for running a consultation (including Polis)
+      within the Democracy Inputs to AI grant.
+  - title: "Democracy Chamber"
+    source: "https://github.com/otsoweckstrom/democracy_chamber"
+    date: "2024-11"
+    description: >
+      Democracy Chamber is an open platform for meaningful, democratic
+      political discussion. The goal is to provide citizens with more tools to
+      influence decision-making.
   # - title: ""
   #   website: ""
   #   source: ""
