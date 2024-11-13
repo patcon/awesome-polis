@@ -507,6 +507,7 @@ content:
   - title: "RoboTeddy/polis-poh-embed-example"
     source: "https://github.com/RoboTeddy/polis-poh-embed-example"
     website: "https://polis-proof-of-humanity.netlify.app/7s45mddsfz"
+    picture: "/images/proof-of-humanity-logo.png"
     date: "2022-03"
     description: >
       Example of a Proof-of-Humanity identity provider wrapper for any arbitary
