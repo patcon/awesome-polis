@@ -498,6 +498,19 @@ content:
       Democracy Chamber is an open platform for meaningful, democratic
       political discussion. The goal is to provide citizens with more tools to
       influence decision-making.
+  - title: "PolisOrbis Deploy Blueprints"
+    source: "https://gitlab.com/copernicani/polisorbis/deploy-blueprints"
+    date: "2024-09"
+    description: >
+      Scripts and code to deploy PolisOrbis in a provisioned Amazon AWS
+      infrastructure.
+  - title: "RoboTeddy/polis-poh-embed-example"
+    source: "https://github.com/RoboTeddy/polis-poh-embed-example"
+    website: "https://polis-proof-of-humanity.netlify.app/7s45mddsfz"
+    date: "2022-03"
+    description: >
+      Example of a Proof-of-Humanity identity provider wrapper for any arbitary
+      Polis conversation.
   # - title: ""
   #   website: ""
   #   source: ""
