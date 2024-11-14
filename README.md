@@ -88,6 +88,7 @@ Readme and the website are automatically generated. In order to add an element t
 - 2019-02: [Conversa](https://github.com/conversa-app/conversa.cc) - An experimental Ruby on Rails app attempting to reimplement the Polis frontend.
 - 2024-10-03: [Creating new frontend(s) for Polis (Part 4/5)](https://sunweavers.net/blog/node/149) - Part of a 5-post blog series about adapting and improving Polis for evaluation by several Dutch provincial governments and central government ministries
 - 2024-08: [Decidim-EJ](https://gitlab.com/lappis-unb/decidimbr/components-brasil-participativo/decidim-ej) - A Decidim module to integrate Pushing Together (EJ) into Decidim. (EJ was started by previous Polis users.)
+- 2024-06: [DELiberation.io](https://deliberationbeta.flutterflow.app/) - A general-purpose deliberation platform to host online conversations, inspired by Polis. In talks with potential partners for field experiments. [Source](https://github.com/itchytoo/deliberation.io)
 - 2024-11: [Democracy Chamber](https://github.com/otsoweckstrom/democracy_chamber) - Democracy Chamber is an open platform for meaningful, democratic political discussion. The goal is to provide citizens with more tools to influence decision-making.
 - 2020-08: [Demos-thinktank/dynata-id](https://github.com/Demos-thinktank/dynata-id) - A small site built to receive incoming Dynata ids, show people an embedded Pol.is survey, and send them back off when done.
 - 2023-04: [DigiFinland Polis tools v1](https://www.sitra.fi/en/projects/polis-platform-experiments/) - Set of deploy scripts, settings files, custom patches, translations and utilities for running Polis experiment deployments for DigiFinland. [Source](https://github.com/jylaroti/polis-digifinland-tools/)
@@ -140,6 +141,7 @@ Readme and the website are automatically generated. In order to add an element t
 - 2022-06: [RxC Conversations](https://github.com/RadicalxChange/rxc-voice/tree/development/polis-app) - A wrapper for Polis conversations held in the RadicalxChange community.
 - 2022-06: [RxC Voice](https://voice.radicalxchange.org/) - RadicalxChange Voice is an app for decentralized democratic governance. [Source](https://github.com/RadicalxChange/rxc-voice)
 - 2023-10: [shuyanglin/vtaiwan-openai-2023](https://vtaiwan-openai-2023.vercel.app/) - A vTaiwan banner website for running a consultation (including Polis) within the Democracy Inputs to AI grant. [Source](https://github.com/shuyanglin/vtaiwan-openai-2023)
+- 2024-11: [Society Speaks](https://societyspeaks.io/) - A fully-launched Polis-centred platform for improved hosting experience and discoverability of public Polis conversations, from local up to international.
 - 2024-10: [Storybook: Polis](https://civictechto.github.io/polis-storybook/) - A "storybook" instance to display frontend UI components from Polis and its forks, to allow more collaboration and experimentation on UX and accessibility improvements. [Source](https://github.com/CivicTechTO/polis-storybook)
 - 2016-03: [Talk to Taiwan](https://web.archive.org/web/20170523073533/http://talkto.tw/talk/17) - Source for generating the [Talkto.tw website codebase](https://github.com/maylogger/talkto.tw), which used Polis alongside livestreamed interviews of public figures. [Source](https://github.com/maylogger/talkto.tw.source)
 - 2017-08: [Talkto.NYC](http://talkto.nyc/) - Polis-integrated media platform for the people of NYC to bring their ideas to city politics [Source](https://github.com/g0vNYC/talkto.nyc)
@@ -148,6 +150,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Twitter List: Polis-curious](https://twitter.com/i/lists/1367212756475260933) - A Twitter list of folks who've built, used or just gotten really stoked about Polis or vTaiwan.
 - 2024-09: [Viewpoints.xyz](https://viewpoints.xyz/) - New UI experiment for a Polis-like platform. [Source](https://github.com/Goodheart-Labs/polislike)
 - 2024-11: [WePublish](https://wepublish.ch/fr/) - Open Source Headless CMS for Publishers and News Rooms, integrating Polis. Created in Switzerland. [Source](https://github.com/wepublish/wepublish)
+- 2022-08: [Wikipedia: https://en.wikipedia.org/wiki/Wiki_survey](https://en.wikipedia.org/wiki/Wiki_survey) - A Wikipedia entry originally created by Nicolas Perez, a member of the Polis User Group (PUG) community, giving Polis its first dedicated section on the platform. [Source](https://docs.google.com/document/d/1HUx8ClEF-95t38k8uaCdx3AeReBs3w9OoerSYFPOYT4/edit)
 
 ## Discussions
 

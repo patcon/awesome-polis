@@ -509,6 +509,31 @@ content:
     description: >
       Example of a Proof-of-Humanity identity provider wrapper for any arbitary
       Polis conversation.
+  - title: "Society Speaks"
+    website: "https://societyspeaks.io/"
+    picture: "https://pbs.twimg.com/profile_images/1854142529291145230/Xnd_Ri3O_400x400.jpg"
+    date: "2024-11"
+    description: >
+      A fully-launched Polis-centred platform for improved hosting experience
+      and discoverability of public Polis conversations, from local up to
+      international.
+  - title: "Wikipedia: https://en.wikipedia.org/wiki/Wiki_survey"
+    website: "https://en.wikipedia.org/wiki/Wiki_survey"
+    source: "https://docs.google.com/document/d/1HUx8ClEF-95t38k8uaCdx3AeReBs3w9OoerSYFPOYT4/edit"
+    picture: "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1280px-Wikipedia-logo-v2.svg.png"
+    date: "2022-08"
+    description: >
+      A Wikipedia entry originally created by Nicolas Perez, a member of the
+      Polis User Group (PUG) community, giving Polis its first dedicated
+      section on the platform.
+  - title: "DELiberation.io"
+    website: "https://deliberationbeta.flutterflow.app/"
+    source: "https://github.com/itchytoo/deliberation.io"
+    date: "2024-06"
+    description: >
+      A general-purpose deliberation platform to host online conversations,
+      inspired by Polis. In talks with potential partners for field
+      experiments.
   # - title: ""
   #   website: ""
   #   source: ""
