@@ -95,6 +95,15 @@ content:
       PolisOrbis is a Polis fork with extensive rewrites, aiming for GDPR
       compliance, OpenID Connect auth support, and improved docs, among other
       things.
+  - title: "Agora Citizen Network"
+    source: "https://github.com/zkorum/zkorum"
+    website: "https://agoracitizen.network/"
+    date: "2024-11"
+    image: "/images/agora-korum.png"
+    description: >
+      Agora is a Polis-inspired platform that enables citizens, organizations,
+      and governments to engage in meaningful large-scale discussions on social
+      and political issues.
 #  - title: ""
 #    website: ""
 #    source: ""
