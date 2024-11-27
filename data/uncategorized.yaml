@@ -535,6 +535,11 @@ content:
       A general-purpose deliberation platform to host online conversations,
       inspired by Polis. In talks with potential partners for field
       experiments.
+  - title: "eterps/polislite"
+    source: "https://github.com/eterps/polislite"
+    date: "2024-11"
+    description: >
+      A lightweight polis-like library, aspiring to reproduce the Polis math algorithms in Python.
   # - title: ""
   #   website: ""
   #   source: ""
