@@ -540,6 +540,11 @@ content:
     date: "2024-11"
     description: >
       A lightweight polis-like library, aspiring to reproduce the Polis math algorithms in Python.
+  - title: "MaanasArora/polis-ctto"
+    source: "https://github.com/MaanasArora/polis-ctto"
+    date: "2024-11"
+    description: >
+      A simple and efficient polis-like system built as a learning exercise by a contributor from Civic Tech Toronto.
   # - title: ""
   #   website: ""
   #   source: ""
