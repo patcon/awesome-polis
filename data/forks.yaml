@@ -104,6 +104,13 @@ content:
       Agora is a Polis-inspired platform that enables citizens, organizations,
       and governments to engage in meaningful large-scale discussions on social
       and political issues.
+  - title: "InnoPolis"
+    source: "https://github.com/PassKeyRa/innopolis-report"
+    website: "https://ethglobal.com/showcase/innopolis-u2dx0"
+    date: "2024-11"
+    description: >
+      A decentralized version of Pol.is built on Ethereum, for community
+      engagement and decision-making with ML-powered opinion analysis.
 #  - title: ""
 #    website: ""
 #    source: ""
