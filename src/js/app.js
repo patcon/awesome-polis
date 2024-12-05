@@ -57,7 +57,7 @@ function handleSearch (searchValue) {
   // TODO: Fix this so it works with multiple words.
   // E.g., "test finland" filters differently than "finland test"
   if (!searchValue.endsWith('*')) {
-    searchValue = `${searchValue} *${searchValue}*`
+    searchValue = `${searchValue} ${searchValue}*`
   }
 
   try {
