@@ -26,22 +26,6 @@ content:
     picture: "/images/legsim.png"
     description: >
       A defunct virtual legislature platform founded in 2001 that integrated Polis.
-  - title: "DigiFinland Polis tools v1"
-    website: "https://www.sitra.fi/en/projects/polis-platform-experiments/"
-    source: "https://github.com/jylaroti/polis-digifinland-tools/"
-    picture: "https://www.businessfinland.fi/4a969e/contentassets/9ac86913aefe4730a93a5f7b3cbbcd87/companylogo2"
-    date: "2023-04"
-    description: >
-      Set of deploy scripts, settings files, custom patches, translations and
-      utilities for running Polis experiment deployments for DigiFinland.
-  - title: "DigiFinland Polis tools v2"
-    website: "https://www.sitra.fi/en/projects/polis-platform-experiments/"
-    source: "https://github.com/polis-digifinland/polis-digifinland"
-    picture: "https://www.businessfinland.fi/4a969e/contentassets/9ac86913aefe4730a93a5f7b3cbbcd87/companylogo2"
-    date: "2024-09"
-    description: >
-      Set of deploy scripts, settings files, custom patches, translations and
-      utilities for running Polis experiment deployments for DigiFinland.
   - title: "Tolerance Carousel"
     website: "http://web.archive.org/web/20230908152124/https://www.reinwardt.ahk.nl/en/research-group-cultural-heritage/projects/project/0/re-tracing-history/"
     source: "https://github.com/tolerance-carousel/tolerance-carousel"

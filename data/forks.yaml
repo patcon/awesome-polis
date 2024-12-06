@@ -111,6 +111,24 @@ content:
     description: >
       A decentralized version of Pol.is built on Ethereum, for community
       engagement and decision-making with ML-powered opinion analysis.
+  - title: "Polis: DigiFinland v1"
+    website: "https://www.sitra.fi/en/projects/polis-platform-experiments/"
+    source: "https://github.com/jylaroti/polis-digifinland-tools/"
+    picture: "https://www.businessfinland.fi/4a969e/contentassets/9ac86913aefe4730a93a5f7b3cbbcd87/companylogo2"
+    date: "2023-04"
+    description: >
+      An initial V1 set of deploy scripts, settings files, custom patches,
+      translations and utilities for running Polis experiment deployments for
+      DigiFinland.
+  - title: "Polis: DigiFinland v2"
+    website: "https://www.sitra.fi/en/projects/polis-platform-experiments/"
+    source: "https://github.com/polis-digifinland/polis-digifinland"
+    picture: "https://www.businessfinland.fi/4a969e/contentassets/9ac86913aefe4730a93a5f7b3cbbcd87/companylogo2"
+    date: "2024-09"
+    description: >
+      A current V2 set of deploy scripts, settings files, custom patches,
+      translations and utilities for running Polis experiment deployments for
+      DigiFinland.
 #  - title: ""
 #    website: ""
 #    source: ""
