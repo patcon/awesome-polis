@@ -529,6 +529,38 @@ content:
     date: "2024-11"
     description: >
       A simple and efficient polis-like system built as a learning exercise by a contributor from Civic Tech Toronto.
+  - title: "Bluesky List: Polis Practitioners"
+    website: "https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b"
+    source: "https://github.com/polis-community/polis-bluesky-sync#readme"
+    date: "2024-11"
+    description: >
+      A more curated Bluesky user list, including people actively working on
+      Polis & Polis-related projects. Best-suited as a pseudo-feed of user
+      posts, via the "Pin to Home" feature.
+  - title: "Bluesky Starter Pack: Polis Practitioners"
+    website: "https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b"
+    source: "https://github.com/polis-community/polis-bluesky-sync#readme"
+    date: "2024-11"
+    description: >
+      A more curated Bluesky user list (as a starter pack), including people
+      actively working on Polis & Polis-related projects. Best-suited for
+      mass-following users. (Sync'd with Bluesky list as much as possible.)
+  - title: "Bluesky List: Polis-curious"
+    website: "https://bsky.app/profile/patcon.bsky.social/lists/3lat4n45y7r2s"
+    date: "2024-11"
+    description: >
+      A more inclusive Bluesky user list, including people who've expressed
+      interest and enthusiasm about Polis, particularly on social media.
+      Best-suited as a pseudo-feed of user posts, via the "Pin to Home"
+      feature.
+  - title: "Twitter/X List: Polis-curious"
+    website: "https://x.com/i/lists/1367212756475260933"
+    date: "2024-11"
+    description: >
+      A more inclusive Twitter/X user list, including people who've expressed
+      interest and enthusiasm about Polis, particularly on social media.
+      Best-suited as a pseudo-feed of user posts, via "pinning" on your list
+      listing page. (Sync'd with Bluesky list as much as possible.)
   # - title: ""
   #   website: ""
   #   source: ""
