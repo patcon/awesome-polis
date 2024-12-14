@@ -35,13 +35,20 @@ content:
       A Slovakian fork seeking to build a community around better ways of
       engaging in divisive conversations.
   - title: "Pushing Together (EJ Platform)"
-    website: "https://www.ejparticipe.org/"
+    website: "https://www.ejparticipe.org/docs"
     source: "https://github.com/ejplatform"
     picture: "https://avatars.githubusercontent.com/u/37082640?s=200&v=4"
     date: "2023-05"
     description: >
-      A comprehensive platform an funded project to create a social
-      participation app based on Polis.
+      A comprehensive platform and funded project to create a social
+      participation app, reimplementing Polis. (Brazil)
+  - title: "Pentano"
+    source: "https://gitlab.com/pentano"
+    picture: "https://avatars.githubusercontent.com/u/37082640?s=200&v=4"
+    date: "2017-06"
+    description: >
+      An early iteration of the Pushing Together reimplementation of Polis.
+      (Brazil)
   - title: "DFE-Digital/polis-whitelabel"
     website: "https://openpolicy.blog.gov.uk/2023/08/08/a-creative-technologist-working-in-policy-one-year-in/"
     source: "https://github.com/DFE-Digital/polis-whitelabel"
