@@ -502,6 +502,13 @@ content:
       A fully-launched Polis-centred platform for improved hosting experience
       and discoverability of public Polis conversations, from local up to
       international.
+  - title: "Github List: Polis-like"
+    website: "https://github.com/stars/patcon/lists/awesome-polis-like"
+    picture: ""
+    date: "2024-12"
+    description: >
+      A list of all GitHub repos (both source and forks) where Polis-related
+      code exists.
   - title: "Wikipedia: https://en.wikipedia.org/wiki/Wiki_survey"
     website: "https://en.wikipedia.org/wiki/Wiki_survey"
     source: "https://docs.google.com/document/d/1HUx8ClEF-95t38k8uaCdx3AeReBs3w9OoerSYFPOYT4/edit"
