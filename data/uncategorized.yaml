@@ -497,6 +497,15 @@ content:
       participation on Polis. [Junction 2024
       hackathon](https://www.junction2024.com/challenges) project, with SITRA
       as challenge partner. (Finland)
+  - title: "ALR DMC: Alert Democracy browser extension (Sitra)"
+    website: "https://devpost.com/software/alr-dmc"
+    source: "https://github.com/Junction-24/alrdmc-extension"
+    date: "2024-12"
+    description: >
+      A browser extension (and backend server) that helps users take action
+      (Polis conversation, petitions, etc.) on the issues they are reading
+      about. [Junction 2024 hackathon](https://www.junction2024.com/challenges)
+      project, with SITRA as challenge partner. (Finland)
   - title: "PolisOrbis Deploy Blueprints"
     source: "https://gitlab.com/copernicani/polisorbis/deploy-blueprints"
     date: "2024-09"
