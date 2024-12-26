@@ -478,7 +478,8 @@ content:
     description: >
       Democracy Chamber is an open platform for meaningful, democratic
       political discussion. The goal is to provide citizens with more tools to
-      influence decision-making.
+      influence decision-making. Created by University of Helsinki students for
+      a hackathon. (Finland)
   - title: "PolisOrbis Deploy Blueprints"
     source: "https://gitlab.com/copernicani/polisorbis/deploy-blueprints"
     date: "2024-09"
@@ -509,6 +510,14 @@ content:
     description: >
       A list of all GitHub repos (both source and forks) where Polis-related
       code exists.
+  - title: "Tuebocracy"
+    source: "https://github.com/haglobah/tuebocracy"
+    website: "https://haglobah.github.io/tuebocracy/"
+    date: "2024-11"
+    description: >
+      Simple wrapper app, intended to help citizens of Tübingen Germany provide
+      input on city issues. Written in Racket language, using Pollen and
+      UnoCSS, built with Nix. Created for a hackathon.
   - title: "Wikipedia: https://en.wikipedia.org/wiki/Wiki_survey"
     website: "https://en.wikipedia.org/wiki/Wiki_survey"
     source: "https://docs.google.com/document/d/1HUx8ClEF-95t38k8uaCdx3AeReBs3w9OoerSYFPOYT4/edit"
