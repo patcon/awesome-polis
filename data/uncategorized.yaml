@@ -472,14 +472,31 @@ content:
     description: >
       A vTaiwan banner website for running a consultation (including Polis)
       within the Democracy Inputs to AI grant.
-  - title: "Democracy Chamber"
+  - title: "Democracy Chamber (Sitra)"
     source: "https://github.com/otsoweckstrom/democracy_chamber"
     date: "2024-11"
     description: >
       Democracy Chamber is an open platform for meaningful, democratic
       political discussion. The goal is to provide citizens with more tools to
       influence decision-making. Created by University of Helsinki students for
-      a hackathon. (Finland)
+      the [Junction 2024 hackathon](https://www.junction2024.com/challenges),
+      with SITRA as partner. (Finland)
+  - title: "Auth and Bot Detection (Sitra)"
+    source: "https://github.com/shivergard/junction2024-websignature-sitra-challange"
+    date: "2024-11"
+    description: >
+      [Junction 2024 hackathon](https://www.junction2024.com/challenges)
+      project to allow Polis auth and bot detection via browser fingerprinting.
+      Hackathon challenge partner was Sitra. (Finland)
+  - title: "EyeDentity (Sitra)"
+    website: "https://eyedentity-hazel.vercel.app/"
+    source: "https://github.com/James-Leste/eyedentity"
+    date: "2024-11"
+    description: >
+      A human identifying tool based on deep gazing detection, to ensure human
+      participation on Polis. [Junction 2024
+      hackathon](https://www.junction2024.com/challenges) project, with SITRA
+      as challenge partner. (Finland)
   - title: "PolisOrbis Deploy Blueprints"
     source: "https://gitlab.com/copernicani/polisorbis/deploy-blueprints"
     date: "2024-09"
