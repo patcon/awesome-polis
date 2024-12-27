@@ -494,9 +494,9 @@ content:
     date: "2024-11"
     description: >
       A human identifying tool based on deep gazing detection, to ensure human
-      participation on Polis. [Junction 2024
-      hackathon](https://www.junction2024.com/challenges) project, with SITRA
-      as challenge partner. (Finland)
+      participation on Polis. This was a [Junction 2024
+      hackathon](https://www.junction2024.com/challenges) project, placing 2nd within the SITRA's
+      digital democracy challenge. (Finland)
   - title: "ALR DMC: Alert Democracy browser extension (Sitra)"
     website: "https://devpost.com/software/alr-dmc"
     source: "https://github.com/Junction-24/alrdmc-extension"
@@ -504,8 +504,18 @@ content:
     description: >
       A browser extension (and backend server) that helps users take action
       (Polis conversation, petitions, etc.) on the issues they are reading
-      about. [Junction 2024 hackathon](https://www.junction2024.com/challenges)
-      project, with SITRA as challenge partner. (Finland)
+      about. This was a [Junction 2024
+      hackathon](https://www.junction2024.com/challenges) project, placing 1st
+      within the SITRA's digital democracy challenge. (Finland)
+  - title: "Common Ground"
+    website: "https://www.dembrane.com/en-US/blog/report-openai-october-2023"
+    source: "https://github.com/openai/democratic-inputs/tree/main/projects/deliberation_at_scale"
+    date: "2024-03"
+    description: >
+      Conceptualised as a multi-player variant of Pol.is, this app aims to test
+      whether intimate, small group discussions, enhanced by scalable
+      intra-group communication protocols, can improve wider debate. Grantee in
+      OpenAI "Democratic Inputs to AI" challenge.
   - title: "PolisOrbis Deploy Blueprints"
     source: "https://gitlab.com/copernicani/polisorbis/deploy-blueprints"
     date: "2024-09"
