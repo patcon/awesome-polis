@@ -94,13 +94,14 @@ content:
       community for users and fans of the Polis software project, for anyone
       eager to explore the tool/processes, including prospective conversation
       moderators & participants, as well as self-hosted server administrators.
-  - title: "Polis Practitioners (canonical directory)"
+  - title: "Polis Practitioners directory"
     website: "https://docs.google.com/spreadsheets/d/1Mji1P51Q3FDWIis_F9NlrW980OtNiF9Ko5NNE3vf42I/edit"
     description: >
-      A canonical list of practitioners of Polis and Polis-like software,
-      aggregated from public resources by patcon, from almost a decade of
-      working and interacting in the space. This resource will be used to
-      auto-generate others. (private for now, pls request access)
+      A canonical contact spreadsheet of almost 400 practitioners (people,
+      projects & orgs) of Polis and Polis-like software, aggregated from public
+      resources by patcon, from almost a decade of working and interacting in
+      the space. This resource will be used to auto-generate others. (private
+      for now, pls feel welcome to request access)
 #  - title: ""
 #    website: ""
 #    source: ""
