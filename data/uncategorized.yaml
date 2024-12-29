@@ -472,41 +472,102 @@ content:
     description: >
       A vTaiwan banner website for running a consultation (including Polis)
       within the Democracy Inputs to AI grant.
-  - title: "Democracy Chamber (Sitra)"
+  - title: "Junction hackathon: Democracy Chamber"
     source: "https://github.com/otsoweckstrom/democracy_chamber"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e87ee6afb9482214df2e8"
     date: "2024-11"
     description: >
       Democracy Chamber is an open platform for meaningful, democratic
       political discussion. The goal is to provide citizens with more tools to
-      influence decision-making. Created by University of Helsinki students for
-      the [Junction 2024 hackathon](https://www.junction2024.com/challenges),
-      with SITRA as partner. (Finland)
-  - title: "Auth and Bot Detection (Sitra)"
+      influence decision-making.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: Ghost Against the Flow"
     source: "https://github.com/shivergard/junction2024-websignature-sitra-challange"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e82d16afb9482214df2c1"
     date: "2024-11"
     description: >
-      [Junction 2024 hackathon](https://www.junction2024.com/challenges)
-      project to allow Polis auth and bot detection via browser fingerprinting.
-      Hackathon challenge partner was Sitra. (Finland)
-  - title: "EyeDentity (Sitra)"
-    website: "https://eyedentity-hazel.vercel.app/"
+      A project to allow Polis auth and bot detection via browser
+      fingerprinting, mouse movements, and request patterns.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: EyeDentity"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e541a6afb9482214df234"
     source: "https://github.com/James-Leste/eyedentity"
     date: "2024-11"
     description: >
       A human identifying tool based on deep gazing detection, to ensure human
-      participation on Polis. This was a [Junction 2024
-      hackathon](https://www.junction2024.com/challenges) project, placing 2nd within the SITRA's
-      digital democracy challenge. (Finland)
-  - title: "ALR DMC: Alert Democracy browser extension (Sitra)"
+      participation on Polis.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: Alert Democracy (ALR DMC) browser extension"
     website: "https://devpost.com/software/alr-dmc"
     source: "https://github.com/Junction-24/alrdmc-extension"
     date: "2024-12"
     description: >
       A browser extension (and backend server) that helps users take action
       (Polis conversation, petitions, etc.) on the issues they are reading
-      about. This was a [Junction 2024
-      hackathon](https://www.junction2024.com/challenges) project, placing 1st
-      within the SITRA's digital democracy challenge. (Finland)
+      about.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: Pol.ly"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/67302bdf9a7c4706bebb2133"
+    source: "https://github.com/xypine/junction24-demo"
+    date: "2024-11"
+    description: >
+      A proposal for anonymous, phone-based login for Polis.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: Zero-Friction"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e81136afb9482214df2b6"
+    source: "https://github.com/mrbesher/junction-hackathon"
+    date: "2024-11"
+    description: >
+      An attempt to create a multimodal, accessible UI for Polis-type
+      visualizations.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: True Voice"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e68f46afb9482214df25b"
+    source: "https://github.com/TGDivy/TrueVoiceClient"
+    date: "2024-11"
+    description: >
+      An attempt to reimagine the Polis interface with LLM involvement.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: Verified"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e8dfe6afb9482214df305"
+    date: "2024-11"
+    description: >
+      A proposal to connect Polis with physical verification.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: Viewpoint"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e83296afb9482214df2c5"
+    source: "https://github.com/nilsson-v/Viewpoint_Junction2024/blob/main/prompts.py"
+    date: "2024-11"
+    description: >
+      A proposal to generate Polis-like conversations about news.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction hackathon: PoliShield"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/view/672e83356afb9482214df2c6"
+    date: "2024-11"
+    description: >
+      A proposed Polis extension introducing robust cryptographic security
+      measures to Polis, guarding against automated participation.
+      This was a Junction hackathon project (see other entry for details),
+      within SITRA's digital democracy challenge. (Finland)
+  - title: "Junction 2024 hackathon: Polis-related projects (SITRA)"
+    website: "https://eu.junctionplatform.com/projects/junction-2024/by-challenge/let-s-make-finland-the-world-leader-of-digital-democracy"
+    picture: "https://cdn.prod.website-files.com/661908c3ec25742be21eec1b/661a48bdd057b2394a05af31_logo.svg"
+    date: "2024-11"
+    description: >
+      The Junction 2024 is Europe's leading hackathon held annually in
+      Helsinki. This year featured SITRA, sponsoring a challenge called "Let’s
+      make Finland the world leader of digital democracy", encouraging a focus
+      on improving Polis. This is a list of the full 28 submitted projects (not
+      all centered on Polis).
   - title: "Common Ground"
     website: "https://www.dembrane.com/en-US/blog/report-openai-october-2023"
     source: "https://github.com/openai/democratic-inputs/tree/main/projects/deliberation_at_scale"
