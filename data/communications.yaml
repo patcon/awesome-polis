@@ -1,0 +1,110 @@
+title: People
+# See: https://github.com/ipfs-shipyard/ipfs-css/blob/main/theme.json
+color: yellow
+# See: https://github.com/ipfs-shipyard/ipfs-css/tree/main/icons
+icon: stroke_user
+description: People and communication spaces that are highly interested in conversation of Polis and Polis-like tools.
+content:
+  - title: "Slack: Metagov"
+    website: "https://metagov.org/join/community"
+    source: "https://metagov.slack.com"
+    description: >
+      Metagov is a community of research and practice gathered around the
+      mission to cultivate tools, practices, and communities that enable
+      self-governance in the digital age.
+      Channels: `#deliberative-tools-and-interop`
+  - title: "Slack: Civic Tech Toronto"
+    website: "https://link.civictech.ca/chat"
+    source: "https://civictechto.slack.com"
+    description: >
+      Civic Tech Toronto is a vibrant and diverse community of Torontonians
+      engaged in understanding and creating solutions for civic challenges
+      through technology, design, and other innovative means.
+      Channels: `#polis`, `#polis-portal`, `#polis-content-creation`, `#polis-tool-talk`
+  - title: "Slack: Code for NL"
+    website: "https://join.slack.com/t/codefornl/shared_invite/zt-2wf1pcpcj-KCYCF5C0hqhr31S~oZvf9g"
+    source: "https://codefornl.slack.com"
+    description: >
+      Code for NL is the Dutch community of people working together on an open,
+      fair and inclusive digital government and society.
+      Channels: `#polisnl`, `#polis-portal`
+  - title: "Bluesky List: Polis Practitioners"
+    website: "https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b"
+    source: "https://github.com/polis-community/polis-bluesky-sync#readme"
+    date: "2024-11"
+    description: >
+      A more curated Bluesky user list, including people actively working on
+      Polis & Polis-related projects. Best-suited as a pseudo-feed of user
+      posts, via the "Pin to Home" feature.
+  - title: "Bluesky Starter Pack: Polis Practitioners"
+    website: "https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b"
+    source: "https://github.com/polis-community/polis-bluesky-sync#readme"
+    date: "2024-11"
+    description: >
+      A more curated Bluesky user list (as a starter pack), including people
+      actively working on Polis & Polis-related projects. Best-suited for
+      mass-following users. (Sync'd with Bluesky list as much as possible.)
+  - title: "Bluesky List: Polis-curious"
+    website: "https://bsky.app/profile/patcon.bsky.social/lists/3lat4n45y7r2s"
+    date: "2024-11"
+    description: >
+      A more inclusive Bluesky user list, including people who've expressed
+      interest and enthusiasm about Polis, particularly on social media.
+      Best-suited as a pseudo-feed of user posts, via the "Pin to Home"
+      feature.
+  - title: "Twitter/X List: Polis-curious"
+    website: "https://x.com/i/lists/1367212756475260933"
+    date: "2024-11"
+    description: >
+      A more inclusive Twitter/X user list, including people who've expressed
+      interest and enthusiasm about Polis, particularly on social media.
+      Best-suited as a pseudo-feed of user posts, via "pinning" on your list
+      listing page. (Sync'd with Bluesky list as much as possible.)
+  - title: "Discord: Polis User Group (PUG)"
+    website: "https://discord.com/invite/wFWB8kzQpP"
+    picture: "/images/discord.webp"
+    description: >
+      An unofficial Discord server for the Polis User Group (PUG). See PUG
+      entry for details.
+  - title: "Discord: RadicalxChange Foundation"
+    website: "https://discord.gg/GCKTs947JR"
+    picture: "/images/discord.webp"
+    description: >
+      RadicalxChange Foundation uses Polis in its work, and has built several
+      projects on comparable technologies. It's founding members are bullish on
+      it's use in democratic processes.
+  - title: "Discord: Plurality Institute"
+    website: "https://discord.gg/P3wHEb2tq3"
+    picture: "/images/discord.webp"
+    description: >
+      Plurality Insitute was founded by Glen Weyl and Audrey Tang, two big
+      proponents of Polis, and sees Polis-like tools as central to creating
+      more co-operative democracies.
+  - title: "Discord: ZKorum / Agora"
+    website: "https://discord.gg/KUUbFVNGGQ"
+    picture: "/images/discord.webp"
+    description: >
+      See entry for "Agora Citizen Network" project, a reimplementation of Polis.
+  - title: "PUG weekly call notes"
+    website: "https://hackmd.io/@patcon/conversa-calls/"
+    picture: "https://media.giphy.com/media/ePsV4lBfsrPmo/giphy.gif"
+    date: "2022-05"
+    description: >
+      Landing page and weekly call notes for Polis User Group (PUG), a
+      community for users and fans of the Polis software project, for anyone
+      eager to explore the tool/processes, including prospective conversation
+      moderators & participants, as well as self-hosted server administrators.
+  - title: "Polis Practitioners (canonical directory)"
+    website: "https://docs.google.com/spreadsheets/d/1Mji1P51Q3FDWIis_F9NlrW980OtNiF9Ko5NNE3vf42I/edit"
+    description: >
+      A canonical list of practitioners of Polis and Polis-like software,
+      aggregated from public resources by patcon, from almost a decade of
+      working and interacting in the space. This resource will be used to
+      auto-generate others. (private for now, pls request access)
+#  - title: ""
+#    website: ""
+#    source: ""
+#    date: ""
+#    picture: ""
+#    description: >
+#      Foo bar
