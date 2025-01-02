@@ -166,7 +166,7 @@ Readme and the website are automatically generated. In order to add an element t
 - 2023-12: [Polis IRL: Mobile NFC voting app](https://github.com/patcon/polis-like-nfc) - A prototype React-Native mobile app for IRL voting in Polis conversations via scanning assigned NFC stickers.
 - 2020-11: [Polis Kubernetes Helm Chart](https://github.com/understory-garden/charts/tree/main/src/polis) - Configuration management code for setting up a Polis instance via Kubernetes.
 - 2021-01: [Polis link prediction](https://github.com/ThenWho/pol-is-link-prediction) - A data exploration in Jupyter notebook.
-- 2021-03: [Polis Math module walk-through](https://hackmd.io/@patcon/conversa-calls/https%3A%2F%2Fhackmd.io%2F%40patcon%2Fr1KpFakV_) - Notes from a walk-through of the Clojure math module of Polis, given by CompDem data scientist Chris Small during his technical office hours.
+- 2021-03: [Polis Math module walk-through](https://hackmd.io/@patcon/r1KpFakV_) - Notes from a walk-through of the Clojure math module of Polis, given by CompDem data scientist Chris Small during his technical office hours.
 - 2024-11: [Polis Resources Spreadsheet](https://docs.google.com/spreadsheets/d/1PNlYoIyN1_jS7CpHDImHcA8qW4UFuEDLVZe0p_C6V0w/edit#gid=0) - The raw source material for this community-stewarded Awesome Polis directory.
 - 2024-09: [PolisOrbis Deploy Blueprints](https://gitlab.com/copernicani/polisorbis/deploy-blueprints) - Scripts and code to deploy PolisOrbis in a provisioned Amazon AWS infrastructure.
 - 2024-06: [PolisPilot Demo](https://polispilot.nl/demo) - PolisPilot is a demo Partici.app frontend for Polis, accessed via the ParticiAPI server. [Source](https://gitlab.com/betabreak/polispilot/demo)
