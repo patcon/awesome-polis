@@ -8,6 +8,7 @@ content:
   - title: "Slack: Metagov"
     website: "https://metagov.org/join/community"
     source: "https://metagov.slack.com"
+    picture: "/images/slack.png"
     description: >
       Metagov is a community of research and practice gathered around the
       mission to cultivate tools, practices, and communities that enable
@@ -16,6 +17,7 @@ content:
   - title: "Slack: Civic Tech Toronto"
     website: "https://link.civictech.ca/chat"
     source: "https://civictechto.slack.com"
+    picture: "/images/slack.png"
     description: >
       Civic Tech Toronto is a vibrant and diverse community of Torontonians
       engaged in understanding and creating solutions for civic challenges
@@ -24,6 +26,7 @@ content:
   - title: "Slack: Code for NL"
     website: "https://join.slack.com/t/codefornl/shared_invite/zt-2wf1pcpcj-KCYCF5C0hqhr31S~oZvf9g"
     source: "https://codefornl.slack.com"
+    picture: "/images/slack.png"
     description: >
       Code for NL is the Dutch community of people working together on an open,
       fair and inclusive digital government and society.
@@ -31,6 +34,7 @@ content:
   - title: "Bluesky List: Polis Practitioners"
     website: "https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b"
     source: "https://github.com/polis-community/polis-bluesky-sync#readme"
+    picture: "/images/bluesky.png"
     date: "2024-12"
     description: >
       A more curated Bluesky user list, including people actively working on
@@ -39,6 +43,7 @@ content:
   - title: "Bluesky Starter Pack: Polis Practitioners"
     website: "https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b"
     source: "https://github.com/polis-community/polis-bluesky-sync#readme"
+    picture: "/images/bluesky.png"
     date: "2024-12"
     description: >
       A more curated Bluesky user list (as a starter pack), including people
@@ -46,6 +51,7 @@ content:
       mass-following users. (Sync'd with list of same name as much as possible.)
   - title: "Bluesky List: Polis-curious"
     website: "https://bsky.app/profile/patcon.bsky.social/lists/3lat4n45y7r2s"
+    picture: "/images/bluesky.png"
     date: "2024-12"
     description: >
       A more inclusive Bluesky user list, including people who've expressed
@@ -54,6 +60,7 @@ content:
       feature.
   - title: "Twitter/X List: Polis Practitioners"
     website: "https://x.com/i/lists/1866598057024029078"
+    picture: "/images/x.png"
     date: "2024-12"
     description: >
       A more curated Twitter/X user list, including people
@@ -61,6 +68,7 @@ content:
       following users. (Sync'd with Bluesky lists as much as possible.)
   - title: "Twitter/X List: Polis-curious"
     website: "https://x.com/i/lists/1367212756475260933"
+    picture: "/images/x.png"
     date: "2024-12"
     description: >
       A more inclusive Twitter/X user list, including people who've expressed
