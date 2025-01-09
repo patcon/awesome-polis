@@ -25,10 +25,10 @@ spreadsheet also listed amongst these resources._
 - [Contribute](#contribute-to-this-list)
 - [Collab-Cluster](#collab-cluster)
 - [Academic](#academic)
-- [Forks & Deployments](#forks-deployments)
+- [Forks](#forks)
+- [Misc](#misc)
 - [Official](#official)
 - [People](#people)
-- [Uncategorized](#uncategorized)
 - [Discussions](#discussions)
 - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
 - [License](#license)
@@ -65,7 +65,7 @@ Readme and the website are automatically generated. In order to add an element t
 - 2024-10-15: [Toward building deliberative digital media: From subversion to consensus](https://academic.oup.com/pnasnexus/article/3/10/pgae407/7821166) - This paper (Pentland & Tsai) analyzes Polis "to illustrate how social science might enable design of next-generation digital media suitable for democratic deliberation, and in which generative artificial intelligence might be useful."
 - 2022-11-24: [“Coherent Mode” for the World’s Public Square](https://arxiv.org/abs/2211.12571) - An official paper proposing modification to Twitter's Community Notes UI to support deliberative process.
 
-## Forks & Deployments
+## Forks
 
 - 2024-11: [Agora Citizen Network](https://agoracitizen.network/) - Agora is a Polis-inspired platform that enables citizens, organizations, and governments to engage in meaningful large-scale discussions on social and political issues. [Source](https://github.com/zkorum/zkorum)
 - 2024-10: [CodeWithAloha/HIERR](https://hierr-histategis.hub.arcgis.com/) - Hawaiʻi Economic Recovery & Resilience (HIERR) is a digital engagement platform wrapping around Polis and providing onboarding materials to solicit resident sentiments on vision and value statements for Hawaii's economic future. [Source](https://github.com/CodeWithAloha/HIERR)
@@ -86,34 +86,7 @@ Readme and the website are automatically generated. In order to add an element t
 - 2023-05: [Pushing Together (EJ Platform)](https://www.ejparticipe.org/docs) - A comprehensive platform and funded project to create a social participation app, reimplementing Polis. (Brazil) [Source](https://github.com/ejplatform)
 - 2022-07: [Tolerance Carousel](https://github.com/tolerance-carousel/polis_tolerance-carousel) - Code for deployed fork of Polis that paired with the Tolerance Carousel project.
 
-## Official
-
-- 2024-10: [compdemocracy/openData](https://github.com/compdemocracy/openData) - Data exports from select "open data" Polis conversations
-- 2023-01: [compdemocracy/scripts](https://github.com/compdemocracy/scripts) - Scripts to streamline the running of the pol.is instance used in Policy Lab. Some of these will become features later on.
-- [Guide: Integrating Polis with Citizens Assemblies](https://compdemocracy.org/polis/book/lottery-selected-assemblies/) - A guide for those who are thinking about the interaction between techniques for listening at scale and in-person deliberation
-- [Official Guide to Polis Methods v1](https://compdemocracy.org/polis/book/introduction/) - The table of contents for an incomplete stub of a currently unpublished Polis book.
-- [Pol.is](https://pol.is/home) - Open Source AI for large scale open ended feedback [Source](https://github.com/compdemocracy/polis)
-- 2023-07: [Polis Embed Examples](https://github.com/compdemocracy/polis-embed-examples) - Examples illustrating how to embed a Polis conversation in another website.
-- 2024: [Polis Knowledge Base](https://compdemocracy.org/knowledge-base) - The Computational Democracy Project maintains an extensive (and growing) knowledge base for Polis and related facilitation methods.
-
-## People
-
-- 2024-12: [Bluesky List: Polis Practitioners](https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b) - A more curated Bluesky user list, including people actively working on Polis & Polis-related projects. Best-suited as a pseudo-feed of user posts, via the "Pin to Home" feature. [Source](https://github.com/polis-community/polis-bluesky-sync#readme)
-- 2024-12: [Bluesky List: Polis-curious](https://bsky.app/profile/patcon.bsky.social/lists/3lat4n45y7r2s) - A more inclusive Bluesky user list, including people who've expressed interest and enthusiasm about Polis, particularly on social media. Best-suited as a pseudo-feed of user posts, via the "Pin to Home" feature.
-- 2024-12: [Bluesky Starter Pack: Polis Practitioners](https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b) - A more curated Bluesky user list (as a starter pack), including people actively working on Polis & Polis-related projects. Best-suited for mass-following users. (Sync'd with list of same name as much as possible.) [Source](https://github.com/polis-community/polis-bluesky-sync#readme)
-- [Discord: Plurality Institute](https://discord.gg/P3wHEb2tq3) - Plurality Insitute was founded by Glen Weyl and Audrey Tang, two big proponents of Polis, and sees Polis-like tools as central to creating more co-operative democracies.
-- [Discord: Polis User Group (PUG)](https://discord.com/invite/wFWB8kzQpP) - An unofficial Discord server for the Polis User Group (PUG). See PUG entry for details.
-- [Discord: RadicalxChange Foundation](https://discord.gg/GCKTs947JR) - RadicalxChange Foundation uses Polis in its work, and has built several projects on comparable technologies. It's founding members are bullish on it's use in democratic processes.
-- [Discord: ZKorum / Agora](https://discord.gg/KUUbFVNGGQ) - See entry for "Agora Citizen Network" project, a reimplementation of Polis.
-- [Polis Practitioners directory](https://docs.google.com/spreadsheets/d/1Mji1P51Q3FDWIis_F9NlrW980OtNiF9Ko5NNE3vf42I/edit) - A canonical contact spreadsheet of almost 400 practitioners (people, projects & orgs) of Polis and Polis-like software, aggregated from public resources by patcon, from almost a decade of working and interacting in the space. This resource will be used to auto-generate others. (private for now, pls feel welcome to request access)
-- 2022-05: [PUG weekly call notes](https://hackmd.io/@patcon/conversa-calls/) - Landing page and weekly call notes for Polis User Group (PUG), a community for users and fans of the Polis software project, for anyone eager to explore the tool/processes, including prospective conversation moderators & participants, as well as self-hosted server administrators.
-- [Slack: Civic Tech Toronto](https://link.civictech.ca/chat) - Civic Tech Toronto is a vibrant and diverse community of Torontonians engaged in understanding and creating solutions for civic challenges through technology, design, and other innovative means. Channels: `#polis`, `#polis-portal`, `#polis-content-creation`, `#polis-tool-talk` [Source](https://civictechto.slack.com)
-- [Slack: Code for NL](https://join.slack.com/t/codefornl/shared_invite/zt-2wf1pcpcj-KCYCF5C0hqhr31S~oZvf9g) - Code for NL is the Dutch community of people working together on an open, fair and inclusive digital government and society. Channels: `#polisnl`, `#polis-portal` [Source](https://codefornl.slack.com)
-- [Slack: Metagov](https://metagov.org/join/community) - Metagov is a community of research and practice gathered around the mission to cultivate tools, practices, and communities that enable self-governance in the digital age. Channels: `#deliberative-tools-and-interop` [Source](https://metagov.slack.com)
-- 2024-12: [Twitter/X List: Polis Practitioners](https://x.com/i/lists/1866598057024029078) - A more curated Twitter/X user list, including people actively working on Polis & Polis-related projects. Best-suited for following users. (Sync'd with Bluesky lists as much as possible.)
-- 2024-12: [Twitter/X List: Polis-curious](https://x.com/i/lists/1367212756475260933) - A more inclusive Twitter/X user list, including people who've expressed interest and enthusiasm about Polis, particularly on social media. Best-suited as a pseudo-feed of user posts, via "pinning" on your list listing page. (Sync'd with Bluesky list as much as possible.)
-
-## Uncategorized
+## Misc
 
 - 2024-05: [aadityabhatia/polis-argmap](https://argmap.bhatia.dev/) - Polis Argument Mapping to Guide Policy Decisions. How can large language models enable us to ingest massive streams of unstructured information, incorporate diverse perspectives and distill them into actionable insights that demonstrably align with public opinion? [Source](https://github.com/aadityabhatia/polis-argmap)
 - 2023-10: [AIObjectives/community-notes-experiment](https://github.com/AIObjectives/community-notes-experiment) - Analyses Polis data with Vitalik's simplified version of Community Notes algorithm, evaluating for quality and polarization.
@@ -206,6 +179,33 @@ Readme and the website are automatically generated. In order to add an element t
 - 2024-09: [Viewpoints.xyz](https://viewpoints.xyz/) - New UI experiment for a Polis-like platform. [Source](https://github.com/Goodheart-Labs/polislike)
 - 2024-11: [WePublish](https://wepublish.ch/fr/) - Open Source Headless CMS for Publishers and News Rooms, integrating Polis. Created in Switzerland. [Source](https://github.com/wepublish/wepublish)
 - 2022-08: [Wikipedia: https://en.wikipedia.org/wiki/Wiki_survey](https://en.wikipedia.org/wiki/Wiki_survey) - A Wikipedia entry originally created by Nicolas Perez, a member of the Polis User Group (PUG) community, giving Polis its first dedicated section on the platform. [Source](https://docs.google.com/document/d/1HUx8ClEF-95t38k8uaCdx3AeReBs3w9OoerSYFPOYT4/edit)
+
+## Official
+
+- 2024-10: [compdemocracy/openData](https://github.com/compdemocracy/openData) - Data exports from select "open data" Polis conversations
+- 2023-01: [compdemocracy/scripts](https://github.com/compdemocracy/scripts) - Scripts to streamline the running of the pol.is instance used in Policy Lab. Some of these will become features later on.
+- [Guide: Integrating Polis with Citizens Assemblies](https://compdemocracy.org/polis/book/lottery-selected-assemblies/) - A guide for those who are thinking about the interaction between techniques for listening at scale and in-person deliberation
+- [Official Guide to Polis Methods v1](https://compdemocracy.org/polis/book/introduction/) - The table of contents for an incomplete stub of a currently unpublished Polis book.
+- [Pol.is](https://pol.is/home) - Open Source AI for large scale open ended feedback [Source](https://github.com/compdemocracy/polis)
+- 2023-07: [Polis Embed Examples](https://github.com/compdemocracy/polis-embed-examples) - Examples illustrating how to embed a Polis conversation in another website.
+- 2024: [Polis Knowledge Base](https://compdemocracy.org/knowledge-base) - The Computational Democracy Project maintains an extensive (and growing) knowledge base for Polis and related facilitation methods.
+
+## People
+
+- 2024-12: [Bluesky List: Polis Practitioners](https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b) - A more curated Bluesky user list, including people actively working on Polis & Polis-related projects. Best-suited as a pseudo-feed of user posts, via the "Pin to Home" feature. [Source](https://github.com/polis-community/polis-bluesky-sync#readme)
+- 2024-12: [Bluesky List: Polis-curious](https://bsky.app/profile/patcon.bsky.social/lists/3lat4n45y7r2s) - A more inclusive Bluesky user list, including people who've expressed interest and enthusiasm about Polis, particularly on social media. Best-suited as a pseudo-feed of user posts, via the "Pin to Home" feature.
+- 2024-12: [Bluesky Starter Pack: Polis Practitioners](https://bsky.app/profile/patcon.bsky.social/lists/3lcqrsp3juf2b) - A more curated Bluesky user list (as a starter pack), including people actively working on Polis & Polis-related projects. Best-suited for mass-following users. (Sync'd with list of same name as much as possible.) [Source](https://github.com/polis-community/polis-bluesky-sync#readme)
+- [Discord: Plurality Institute](https://discord.gg/P3wHEb2tq3) - Plurality Insitute was founded by Glen Weyl and Audrey Tang, two big proponents of Polis, and sees Polis-like tools as central to creating more co-operative democracies.
+- [Discord: Polis User Group (PUG)](https://discord.com/invite/wFWB8kzQpP) - An unofficial Discord server for the Polis User Group (PUG). See PUG entry for details.
+- [Discord: RadicalxChange Foundation](https://discord.gg/GCKTs947JR) - RadicalxChange Foundation uses Polis in its work, and has built several projects on comparable technologies. It's founding members are bullish on it's use in democratic processes.
+- [Discord: ZKorum / Agora](https://discord.gg/KUUbFVNGGQ) - See entry for "Agora Citizen Network" project, a reimplementation of Polis.
+- [Polis Practitioners directory](https://docs.google.com/spreadsheets/d/1Mji1P51Q3FDWIis_F9NlrW980OtNiF9Ko5NNE3vf42I/edit) - A canonical contact spreadsheet of almost 400 practitioners (people, projects & orgs) of Polis and Polis-like software, aggregated from public resources by patcon, from almost a decade of working and interacting in the space. This resource will be used to auto-generate others. (private for now, pls feel welcome to request access)
+- 2022-05: [PUG weekly call notes](https://hackmd.io/@patcon/conversa-calls/) - Landing page and weekly call notes for Polis User Group (PUG), a community for users and fans of the Polis software project, for anyone eager to explore the tool/processes, including prospective conversation moderators & participants, as well as self-hosted server administrators.
+- [Slack: Civic Tech Toronto](https://link.civictech.ca/chat) - Civic Tech Toronto is a vibrant and diverse community of Torontonians engaged in understanding and creating solutions for civic challenges through technology, design, and other innovative means. Channels: `#polis`, `#polis-portal`, `#polis-content-creation`, `#polis-tool-talk` [Source](https://civictechto.slack.com)
+- [Slack: Code for NL](https://join.slack.com/t/codefornl/shared_invite/zt-2wf1pcpcj-KCYCF5C0hqhr31S~oZvf9g) - Code for NL is the Dutch community of people working together on an open, fair and inclusive digital government and society. Channels: `#polisnl`, `#polis-portal` [Source](https://codefornl.slack.com)
+- [Slack: Metagov](https://metagov.org/join/community) - Metagov is a community of research and practice gathered around the mission to cultivate tools, practices, and communities that enable self-governance in the digital age. Channels: `#deliberative-tools-and-interop` [Source](https://metagov.slack.com)
+- 2024-12: [Twitter/X List: Polis Practitioners](https://x.com/i/lists/1866598057024029078) - A more curated Twitter/X user list, including people actively working on Polis & Polis-related projects. Best-suited for following users. (Sync'd with Bluesky lists as much as possible.)
+- 2024-12: [Twitter/X List: Polis-curious](https://x.com/i/lists/1367212756475260933) - A more inclusive Twitter/X user list, including people who've expressed interest and enthusiasm about Polis, particularly on social media. Best-suited as a pseudo-feed of user posts, via "pinning" on your list listing page. (Sync'd with Bluesky list as much as possible.)
 
 ## Discussions
 
