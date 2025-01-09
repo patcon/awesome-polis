@@ -1,0 +1,130 @@
+title: Academic
+# See: https://github.com/ipfs-shipyard/ipfs-css/blob/main/theme.json
+color: teal
+# See: https://github.com/ipfs-shipyard/ipfs-css/tree/main/icons
+icon: stroke_document
+description: All uncategorized resources.
+content:
+  - title: "Academic citations of original Polis paper"
+    website: "https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=2854507340350233784&scipsc=&q=&scisbd=1"
+    date: "2024-12"
+    description: >
+      Google Scholar listings for all academic papers citing the original
+      paper: _Polis: Scaling deliberation by mapping high dimensional opinion
+      spaces_". (55 citations as of Jan 2025)
+  - title: "Toward building deliberative digital media: From subversion to consensus"
+    website: "https://academic.oup.com/pnasnexus/article/3/10/pgae407/7821166"
+    picture: "/images/pentland-paper.png"
+    date: "2024-10-15"
+    description: >
+      This paper (Pentland & Tsai) analyzes Polis "to illustrate how social
+      science might enable design of next-generation digital media suitable for
+      democratic deliberation, and in which generative artificial intelligence
+      might be useful."
+  - title: "Polis: Scaling Deliberation by Mapping HighDimensional Opinion Spaces"
+    website: "https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558"
+    picture: "/images/polis-paper-2021.png"
+    date: "2021-04-29"
+    description: >
+      The authoritative paper on Polis internals and math.
+  - title: "Opportunities and Risks of LLMs for Scalable Deliberation with Polis"
+    website: "https://www.researchgate.net/publication/371758108_Opportunities_and_Risks_of_LLMs_for_Scalable_Deliberation_with_Polis"
+    date: "2023-06-20"
+    picture: "/images/polis-llm-paper-2023.png"
+    description: >
+      An official collaborative paper with AnthropicAI, on applying LLMs to
+      Polis outputs and processes.
+  - title: "“Coherent Mode” for the World’s Public Square"
+    website: "https://arxiv.org/abs/2211.12571"
+    date: "2022-11-24"
+    picture: "/images/polis-paper-2022.png"
+    description: >
+      An official paper proposing modification to Twitter's Community Notes UI
+      to support deliberative process.
+
+  - title: "Paper: Error in the Euclidean Preference Model"
+    website: "https://arxiv.org/abs/2208.08160"
+    source: "2022-08"
+    description: >
+      An important analysis of Euclidian spatial models of preference, such as
+      is used by Polis in its PCA dimensional reduction methods.
+
+  - title: "Thesis: The Efficacy of Different Analysis Algorithms for Summarizing Online Deliberations"
+    website: "https://dspace.mit.edu/handle/1721.1/157168"
+    date: "2024-09"
+    description: >
+      A review of Polis' clustering-analysis summary algorithms, and
+      comparison with two newer algorithms based on (1) computational
+      social choice theory or (2) abstract argumentation theory.
+      An important analysis of Euclidian spatial models of preference, such as
+      is used by Polis in its PCA dimensional reduction methods.
+
+  - title: "Paper: EM algorithms for PCA and SPCA"
+    website: "https://dl.acm.org/doi/10.5555/3008904.3008993"
+    date: "1997-12"
+    description: >
+      The original paper describing expectation-maximization PCA (EMPCA), which
+      is the incremental PCA algorithm that Polis uses to update its sparse
+      matrix in a computationally efficient way as new vvotes come in. The
+      Polis paper refers to EMPCA as the "power iteration method" of PCA.
+
+  - title: "Paper: Bridging Systems: Open problems for countering destructive divisiveness across ranking, recommenders, and governance"
+    website: "https://knightcolumbia.org/content/bridging-systems"
+    source: "https://arxiv.org/abs/2301.09976"
+    date: "2023-10"
+    description: >
+      A paper prominently featuring Polis as a major example. The authors'
+      scholarship have been key in supporting consensus-based systems to be
+      integrated into platforms like Twitter's Community Notes.
+
+  - title: "Paper: Metric Distortion with Elicited Pairwise Comparisons"
+    website: "https://www.ijcai.org/proceedings/2024/309"
+    date: "2024-08"
+    description: >
+      A paper discussing constraints and considerations of what Polis calls
+      "comment routing", or the order in which statements are presented to
+      users in a fair way.
+
+  - title: "Thesis: Advancing Policy Insights: Opinion Data Analysis and Discourse Structuring Using LLMs"
+    website: "https://stars.library.ucf.edu/etd2023/204/"
+    date: "2024-05"
+    description: >
+      Using Polis datasets to propose automated content moderation pipelines
+      via LLM reasoning. Argument maps are also generated from the data.
+
+  - title: "Paper: AI and the Future of Digital Public Squares"
+    website: "https://arxiv.org/abs/2412.09988"
+    date: "2024-12"
+    description: >
+      Paper reflecting on implications of LLMs on democracy, including
+      discussion and participation from experts in deliberation tools like
+      Polis.
+
+  - title: "Course Project: How Consensus can be Involved through Innovating Voting Mechanism? Using Polis Platform as an Example"
+    website: "https://oliz888.github.io/pdf/Consensus%20Detection%20in%20Innovating%20voting%20process.pdf"
+    source: "https://github.com/Oliz888/Voting_Consensus_Detection"
+    date: "2022-12"
+    description: >
+      This graudate studies project seemingly attempts to determine if
+      consensus is created over the course of a long-lived Polis conversation.
+
+  - title: "Paper: Collective Constitutional AI: Aligning a Language Model with Public Input"
+    website: "https://arxiv.org/abs/2406.07814"
+    source: "https://github.com/saffronh/ccai"
+    date: "2024-06"
+    description: >
+      A paper that leaned highly on Polis to help public input shape a
+      constitution that would direct AI responses.
+
+  - title: "Paper: Generative Social Choice"
+    website: "https://arxiv.org/abs/2309.01291"
+    date: "2023-11"
+    description: >
+      An implementation of methods beneficial to vote prediction, a known
+      opportunity for extending Polis into "virtual democracies".
+  # - title: ""
+  #   website: ""
+  #   source: ""
+  #   picture: ""
+  #   description: >
+  #     X

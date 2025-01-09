@@ -29,26 +29,6 @@ content:
     description: >
       The table of contents for an incomplete stub of a currently unpublished
       Polis book.
-  - title: "Polis: Scaling Deliberation by Mapping HighDimensional Opinion Spaces"
-    website: "https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558"
-    picture: "/images/polis-paper-2021.png"
-    date: "2021-04-29"
-    description: >
-      The authoritative paper on Polis internals and math.
-  - title: "Opportunities and Risks of LLMs for Scalable Deliberation with Polis"
-    website: "https://www.researchgate.net/publication/371758108_Opportunities_and_Risks_of_LLMs_for_Scalable_Deliberation_with_Polis"
-    date: "2023-06-20"
-    picture: "/images/polis-llm-paper-2023.png"
-    description: >
-      An official collaborative paper with AnthropicAI, on applying LLMs to
-      Polis outputs and processes.
-  - title: "“Coherent Mode” for the World’s Public Square"
-    website: "https://arxiv.org/abs/2211.12571"
-    date: "2022-11-24"
-    picture: "/images/polis-paper-2022.png"
-    description: >
-      An official paper proposing modification to Twitter's Community Notes UI
-      to support deliberative process.
   - title: "Polis Embed Examples"
     source: "https://github.com/compdemocracy/polis-embed-examples"
     picture: "/images/polis-banner.jpeg"

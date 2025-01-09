@@ -24,6 +24,7 @@ spreadsheet also listed amongst these resources._
 - [Maintainers](#maintainers)
 - [Contribute](#contribute-to-this-list)
 - [Collab-Cluster](#collab-cluster)
+- [Academic](#academic)
 - [Forks & Deployments](#forks-deployments)
 - [Official](#official)
 - [People](#people)
@@ -45,6 +46,24 @@ spreadsheet also listed amongst these resources._
 ~~Everyone is welcome to submit their new awesome-ipfs item, but it will be accepted only if it meets our [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).~~
 
 Readme and the website are automatically generated. In order to add an element to this list, you need to modify the files in `/data` and then run  `make build` before publishing your pull request. Read [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
+
+## Academic
+
+- 2024-12: [Academic citations of original Polis paper](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=2854507340350233784&scipsc=&q=&scisbd=1) - Google Scholar listings for all academic papers citing the original paper: _Polis: Scaling deliberation by mapping high dimensional opinion spaces_". (55 citations as of Jan 2025)
+- 2022-12: [Course Project: How Consensus can be Involved through Innovating Voting Mechanism? Using Polis Platform as an Example](https://oliz888.github.io/pdf/Consensus%20Detection%20in%20Innovating%20voting%20process.pdf) - This graudate studies project seemingly attempts to determine if consensus is created over the course of a long-lived Polis conversation. [Source](https://github.com/Oliz888/Voting_Consensus_Detection)
+- 2023-06-20: [Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://www.researchgate.net/publication/371758108_Opportunities_and_Risks_of_LLMs_for_Scalable_Deliberation_with_Polis) - An official collaborative paper with AnthropicAI, on applying LLMs to Polis outputs and processes.
+- 2024-12: [Paper: AI and the Future of Digital Public Squares](https://arxiv.org/abs/2412.09988) - Paper reflecting on implications of LLMs on democracy, including discussion and participation from experts in deliberation tools like Polis.
+- 2023-10: [Paper: Bridging Systems: Open problems for countering destructive divisiveness across ranking, recommenders, and governance](https://knightcolumbia.org/content/bridging-systems) - A paper prominently featuring Polis as a major example. The authors' scholarship have been key in supporting consensus-based systems to be integrated into platforms like Twitter's Community Notes. [Source](https://arxiv.org/abs/2301.09976)
+- 2024-06: [Paper: Collective Constitutional AI: Aligning a Language Model with Public Input](https://arxiv.org/abs/2406.07814) - A paper that leaned highly on Polis to help public input shape a constitution that would direct AI responses. [Source](https://github.com/saffronh/ccai)
+- 1997-12: [Paper: EM algorithms for PCA and SPCA](https://dl.acm.org/doi/10.5555/3008904.3008993) - The original paper describing expectation-maximization PCA (EMPCA), which is the incremental PCA algorithm that Polis uses to update its sparse matrix in a computationally efficient way as new vvotes come in. The Polis paper refers to EMPCA as the "power iteration method" of PCA.
+- [Paper: Error in the Euclidean Preference Model](https://arxiv.org/abs/2208.08160) - An important analysis of Euclidian spatial models of preference, such as is used by Polis in its PCA dimensional reduction methods. [Source](2022-08)
+- 2023-11: [Paper: Generative Social Choice](https://arxiv.org/abs/2309.01291) - An implementation of methods beneficial to vote prediction, a known opportunity for extending Polis into "virtual democracies".
+- 2024-08: [Paper: Metric Distortion with Elicited Pairwise Comparisons](https://www.ijcai.org/proceedings/2024/309) - A paper discussing constraints and considerations of what Polis calls "comment routing", or the order in which statements are presented to users in a fair way.
+- 2021-04-29: [Polis: Scaling Deliberation by Mapping HighDimensional Opinion Spaces](https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558) - The authoritative paper on Polis internals and math.
+- 2024-05: [Thesis: Advancing Policy Insights: Opinion Data Analysis and Discourse Structuring Using LLMs](https://stars.library.ucf.edu/etd2023/204/) - Using Polis datasets to propose automated content moderation pipelines via LLM reasoning. Argument maps are also generated from the data.
+- 2024-09: [Thesis: The Efficacy of Different Analysis Algorithms for Summarizing Online Deliberations](https://dspace.mit.edu/handle/1721.1/157168) - A review of Polis' clustering-analysis summary algorithms, and comparison with two newer algorithms based on (1) computational social choice theory or (2) abstract argumentation theory. An important analysis of Euclidian spatial models of preference, such as is used by Polis in its PCA dimensional reduction methods.
+- 2024-10-15: [Toward building deliberative digital media: From subversion to consensus](https://academic.oup.com/pnasnexus/article/3/10/pgae407/7821166) - This paper (Pentland & Tsai) analyzes Polis "to illustrate how social science might enable design of next-generation digital media suitable for democratic deliberation, and in which generative artificial intelligence might be useful."
+- 2022-11-24: [“Coherent Mode” for the World’s Public Square](https://arxiv.org/abs/2211.12571) - An official paper proposing modification to Twitter's Community Notes UI to support deliberative process.
 
 ## Forks & Deployments
 
@@ -73,12 +92,9 @@ Readme and the website are automatically generated. In order to add an element t
 - 2023-01: [compdemocracy/scripts](https://github.com/compdemocracy/scripts) - Scripts to streamline the running of the pol.is instance used in Policy Lab. Some of these will become features later on.
 - [Guide: Integrating Polis with Citizens Assemblies](https://compdemocracy.org/polis/book/lottery-selected-assemblies/) - A guide for those who are thinking about the interaction between techniques for listening at scale and in-person deliberation
 - [Official Guide to Polis Methods v1](https://compdemocracy.org/polis/book/introduction/) - The table of contents for an incomplete stub of a currently unpublished Polis book.
-- 2023-06-20: [Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://www.researchgate.net/publication/371758108_Opportunities_and_Risks_of_LLMs_for_Scalable_Deliberation_with_Polis) - An official collaborative paper with AnthropicAI, on applying LLMs to Polis outputs and processes.
 - [Pol.is](https://pol.is/home) - Open Source AI for large scale open ended feedback [Source](https://github.com/compdemocracy/polis)
 - 2023-07: [Polis Embed Examples](https://github.com/compdemocracy/polis-embed-examples) - Examples illustrating how to embed a Polis conversation in another website.
 - 2024: [Polis Knowledge Base](https://compdemocracy.org/knowledge-base) - The Computational Democracy Project maintains an extensive (and growing) knowledge base for Polis and related facilitation methods.
-- 2021-04-29: [Polis: Scaling Deliberation by Mapping HighDimensional Opinion Spaces](https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558) - The authoritative paper on Polis internals and math.
-- 2022-11-24: [“Coherent Mode” for the World’s Public Square](https://arxiv.org/abs/2211.12571) - An official paper proposing modification to Twitter's Community Notes UI to support deliberative process.
 
 ## People
 
