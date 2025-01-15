@@ -117,6 +117,13 @@ content:
       resources by patcon, from almost a decade of working and interacting in
       the space. This resource will be used to auto-generate others. (private
       for now, pls feel welcome to request access)
+  - title: "Polis Practitioners Network Visualization"
+    website: "https://patcon.github.io/polis-practitioner-graph/"
+    source: "https://github.com/patcon/polis-practitioner-graph"
+    date: "2025-01"
+    description: >
+      A network visualization of practitioners of Polis-like tools and
+      processes. Generated from the "Polis Practitioners directory".
 #  - title: ""
 #    website: ""
 #    source: ""
