@@ -122,6 +122,24 @@ content:
     description: >
       An implementation of methods beneficial to vote prediction, a known
       opportunity for extending Polis into "virtual democracies".
+
+  - title: "Paper: Using LLMs to Structure and Visualize Policy Discourse"
+    source: "https://ial.eecs.ucf.edu/pdf/Sukthankar-Democrai2024.pdf"
+    website: "https://sites.google.com/view/democrai2024/awards"
+    date: "2024-08"
+    description: >
+      A DARPA-funded winner of the Best Paper Award at the 4th International
+      Workshop on Democracy and AI. This paper "introduces a unique approach to
+      visualizing opinion data gathered from the Polis online platform in which
+      LLMs are used to generate positions and structure the data into argument
+      maps."
+  - title: "Paper: Boosting, not replacing: Online deliberation tools in a face-to-face student citizens’ assembly"
+    website: "https://ojs.uclouvain.be/index.php/rec/article/view/78543"
+    date: "2025-01-15"
+    description: >
+      This paper offers an analysis of two software programmes specifically
+      designed to  facilitate  high-quality  online  deliberation --  Decidim
+      and Polis.
   # - title: ""
   #   website: ""
   #   source: ""
