@@ -143,6 +143,13 @@ content:
       A current V2 set of deploy scripts, settings files, custom patches,
       translations and utilities for running Polis experiment deployments for
       DigiFinland.
+  - title: "Red-Dwarf: Polis algorithm Python library"
+    source: "https://github.com/patcon/red-dwarf"
+    date: "2025-02"
+    description: >
+      A DIMensional REDuction library for stellarpunk democracy into the long
+      haul. Goal is re-implementing Polis algorithms in Python, supporting
+      easily-tuned variables and alternative dimensional reduction algorithms.
 #  - title: ""
 #    website: ""
 #    source: ""
