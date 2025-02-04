@@ -99,7 +99,10 @@ content:
     website: "https://discord.gg/KUUbFVNGGQ"
     picture: "/images/discord.webp"
     description: >
-      See entry for "Agora Citizen Network" project, a reimplementation of Polis.
+      See entry for "Agora Citizen Network" project, a reimplementation of
+      Polis. They are also financially supporting Red-Dwarf, a Python library
+      reimplementing Polis algorithms, and running community calls for
+      developers and other practitioners.
   - title: "PUG weekly call notes"
     website: "https://hackmd.io/@patcon/conversa-calls/"
     picture: "https://media.giphy.com/media/ePsV4lBfsrPmo/giphy.gif"
