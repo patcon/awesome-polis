@@ -128,6 +128,15 @@ content:
     description: >
       A network visualization of practitioners of Polis-like tools and
       processes. Generated from the "Polis Practitioners directory".
+  - title: "Discord: Citizen Collective"
+    website: "https://discord.gg/mvAA5SAnah"
+    picture: "/images/discord.webp"
+    description: >
+      Citizen Collective is a community that spun out of Jon Alexander's book
+      CITIZENS. There is no specific channel for Polis-related interests, but
+      since many people are active in Citizen Assembly pprocesses, there are a
+      high number of people running experiments or eager to discuss. Search to
+      find past convos.
 #  - title: ""
 #    website: ""
 #    source: ""
