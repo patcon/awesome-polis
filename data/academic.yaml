@@ -146,6 +146,13 @@ content:
     description: >
       This paper offers a Polis-based metholodology from writing a manifesto in
       a collective fashion.
+  - title: "Paper: Rethinking gamified democracy as frictional: a comparative examination of the Decide Madrid and vTaiwan platforms"
+    website: "https://www.tandfonline.com/doi/full/10.1080/14649365.2022.2055779"
+    date: "2021-05"
+    description: >
+      A paper on vTaiwan that discusses the user experience of Polis, including
+      some developer interviews and discussion of gameification of the
+      interface.
   # - title: ""
   #   website: ""
   #   source: ""
