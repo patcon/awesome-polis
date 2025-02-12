@@ -150,6 +150,13 @@ content:
       A DIMensional REDuction library for stellarpunk democracy into the long
       haul. Goal is re-implementing Polis algorithms in Python, supporting
       easily-tuned variables and alternative dimensional reduction algorithms.
+  - title: "Fork: DigiFinland User Interface"
+    source: "https://github.com/polis-digifinland/df-participation"
+    website: "https://digifinland.fi/toimintamme/polis-kansalaiskeskustelualusta/"
+    date: "2025-02"
+    description: >
+      An in-progress experimental participation interface for Polis, built in
+      partnership between DigiFinland and the SITRA fund.
 #  - title: ""
 #    website: ""
 #    source: ""
