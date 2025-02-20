@@ -63,13 +63,6 @@ content:
     date: "2023-07"
     description: >
       A pared-down fork of Polis created by the Gov.UK Policy Lab
-  - title: "polispilot/polis-whitelabel"
-    website: "https://polis.partici.app/8vwsnjphnz"
-    source: "https://gitlab.com/betabreak/polispilot/polis"
-    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
-    date: "2023-12"
-    description: >
-      A modified deployment of the Polis codebase, called Partici.app. Built by affiliates of Code for NL, related to PolisPilot.
   - title: "Polis deployment: Crowd Wisdom Project"
     website: "https://polis.crowdwisdomproject.org/home"
     source: "https://github.com/NewRedo/polis-fork"

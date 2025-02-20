@@ -259,26 +259,26 @@ content:
     picture: ""
     description: >
       Wrapper for Polis discussion on Code for NL.
-  - title: "PolisPilot.nl"
-    website: "https://polispilot.nl/"
-    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
+  - title: "PolisNL.nl"
+    website: "https://polisnl.org"
+    picture: "https://polisnl.org/user/themes/polis-nl/img/logo-polis-nl.svg"
     date: "2023-12"
     description: >
-      A very polished fork of Polis being built by affiliates of Code for NL
-  - title: "PolisPilot Demo"
-    website: "https://polispilot.nl/demo"
+      A Dutch working group for a Dutch version of Polis subsidised with the innovation fund afiliated to the Dutch Governement.
+  - title: "PolisNL Demo"
+    website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
     source: "https://gitlab.com/betabreak/polispilot/demo"
     date: "2024-06"
-    picture: "https://polispilot.nl/img/polis-pilot-logo.svg"
+    picture: "https://polisnl.org/user/themes/polis-nl/img/logo-polis-nl.svg"
     description: >
-      PolisPilot is a demo Partici.app frontend for Polis, accessed via the ParticiAPI server.
+      PolisNL is a demo Partici.app frontend for Polis, accessed via the ParticiAPI server.
   - title: "Partici.app"
     website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
     source: "https://gitlab.com/particiapp/particiapp-example-frontend"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     date: "2024-06"
     description: >
-      An Alternative Polis frontend, used in the PolisPilot demo. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
+      An Alternative Polis frontend, used in the PolisNL demo. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
   - title: "Partici.app Docker"
     source: "https://gitlab.com/particiapp/particiapp-docker"
     date: "2024-06"
@@ -292,6 +292,20 @@ content:
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
       A server providing an alternative API on top of the Polis database, supporting third-party frontends for the Polis project.
+  - title: "Partici.App Documentation"
+    date: "2025-02"
+    website: "https://partici.app/"
+    source: "https://gitlab.com/particiapp/"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    description: >
+      The Partici.App documentation website for the PolisNL software project.
+  - title: "Partici.App Documentation"
+    date: "2025-02"
+    website: "https://pilot.praatmeemetdeoverheid.nl/index.html/"
+    source: "https://gitlab.com/particiapp/"
+    picture: "https://pilot.praatmeemetdeoverheid.nl/images/beter-logo.png"
+    description: >
+      A Polis implementation by the Dutch Ministry of the Interior and Kingdom Relations, where partici.app components where used.
   - title: "Decidim-EJ"
     date: "2024-08"
     source: "https://gitlab.com/lappis-unb/decidimbr/components-brasil-participativo/decidim-ej"
@@ -312,13 +326,13 @@ content:
     picture: "https://www.ejplatform.org/static/img/logo/logo.svg"
     description: >
       An opinion research chatbot for Telegram and WhatsApp. (EJ was started by previous Polis users.)
-  - title: "Code for NL Slack - PolisPilot"
+  - title: "Code for NL Slack - PolisNL"
     website: "https://praatmee.codefor.nl/"
     date: "2024-10"
     source: ""
     picture: ""
     description: >
-      Join the active #polis channel in this Slack team to participate in projects PolisPilot / Partici.app
+      Join the active #polis channel in this Slack team to participate in projects PolisNL / Partici.app
   - title: "Creating new frontend(s) for Polis (Part 4/5)"
     website: "https://sunweavers.net/blog/node/149"
     date: "2024-10-03"
