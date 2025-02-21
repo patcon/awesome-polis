@@ -299,9 +299,9 @@ content:
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
       The Partici.App documentation website for the PolisNL software project.
-  - title: "Partici.App Documentation"
+  - title: "Praat mee met de Overheid"
     date: "2025-02"
-    website: "https://pilot.praatmeemetdeoverheid.nl/index.html/"
+    website: "https://pilot.praatmeemetdeoverheid.nl/"
     source: "https://gitlab.com/particiapp/"
     picture: "https://pilot.praatmeemetdeoverheid.nl/images/beter-logo.png"
     description: >
