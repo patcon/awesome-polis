@@ -153,6 +153,13 @@ content:
       A paper on vTaiwan that discusses the user experience of Polis, including
       some developer interviews and discussion of gameification of the
       interface.
+  - title: "Paper: Re-Mediatization as a New Digital Approach Towards Local Political Deliberation: Using Real-Time Participatory Media Production to Bring Nuance to Public Debates on Religion, Sexuality, and Migration"
+    website: "https://link.springer.com/article/10.1007/s44206-024-00154-7"
+    date: "2024-12"
+    description: >
+      This paper used a remodeled version of Polis (see "Tolerance Carousel"
+      entry) to try to redress and combat toxic polarization, and found it
+      contributed to productive polarization and creative relating.
   # - title: ""
   #   website: ""
   #   source: ""
