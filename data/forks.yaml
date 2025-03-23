@@ -150,6 +150,14 @@ content:
     description: >
       An in-progress experimental participation interface for Polis, built in
       partnership between DigiFinland and the SITRA fund.
+  - title: "Nexus"
+    source: "https://github.com/sofvanh/MindMeld"
+    website: "https://nexus-tool.com/"
+    date: "2025-03"
+    description: >
+      Nexus is a full-stack application designed to facilitate group
+      deliberation using AI. It draws inspiration from platforms like Polis and
+      Community Notes by X.
 #  - title: ""
 #    website: ""
 #    source: ""

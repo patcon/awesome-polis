@@ -675,14 +675,14 @@ content:
       A few scripts for running various experiments. Very incomplete.
   - title: "BotPolisCodeHelper"
     website: "https://poe.com/BotPolisCodeHelper"
-    date: "2023-10"
+    date: "2024-08"
     description: >
       An AI-powered code analysis assistant trained on the Polis codebase,
       designed to help developers navigate and understand complex codebases.
       [Example 1](https://poe.com/s/uHMYdsovCgC51w2Z4KyR)
       | [Example 2](https://poe.com/s/njjAWIhTeXRUmO4X7A1E)
   - title: "BotPolisSeedComments"
-    date: "2023-10"
+    date: "2024-11"
     website: "https://poe.com/BotPolisSeedComments"
     description: >
       A helpful bot for generating list of statements to use as seed statements
