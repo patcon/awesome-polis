@@ -688,6 +688,15 @@ content:
       A helpful bot for generating list of statements to use as seed statements
       when creating a conversation on Polis.
       [Example](https://poe.com/s/PBvusMmVMirF4PTL5icj)
+  - title: ""
+    source: "https://github.com/Jigsaw-Code/sensemaking-tools"
+    website: "https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55"
+    date: "2025-03"
+    description: >
+      Jigsaw’s Sensemaking tools help make sense of large-scale online
+      conversations, leveraging LLMs to categorize statements, and summarize
+      statements and voting patterns to surface actionable insights. Uses Polis
+      computational metrics and imports.
   # - title: ""
   #   website: ""
   #   source: ""
