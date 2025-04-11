@@ -652,6 +652,16 @@ content:
       Platform that enables communities to collaboratively create and refine AI
       models based on collectively defined constitutions, democratizing AI
       alignment. Uses Polis' participants-votes.csv export data.
+  - title: "Polis Analysis & Simulation"
+    source: "https://github.com/raykyri/osccai-simulation"
+    website: "https://polis-simulation.vercel.app/"
+    date: "2025-04"
+    description: >
+      This application implements the core analysis algorithms used by the
+      Polis real-time survey and opinion analysis tool, running as a TypeScript
+      effect pipeline in the browser. It has been tested against existing
+      CC-licensed Polis data and runs on surveys of 100s-1000s of participants,
+      with 100s of comments, in 300ms-1s.
   - title: "saffronh/ccai"
     website: "https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input"
     source: "https://github.com/saffronh/ccai"
