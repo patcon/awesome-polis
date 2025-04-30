@@ -707,6 +707,20 @@ content:
       conversations, leveraging LLMs to categorize statements, and summarize
       statements and voting patterns to surface actionable insights. Uses Polis
       computational metrics and imports.
+  - title: "Public Square TO"
+    source: "https://github.com/publicsquareto/publicsquareto.github.io"
+    website: "https://publicsquareto.github.io"
+    date: "2025-04"
+    description: >
+      A website embedding Polis conversations about issues relevant to
+      residents of Toronto. Built by members of Civic Tech Toronto.
+  - title: "Deliberative Reasoning Index (DRI) in Polis"
+    source: "https://github.com/social-protocols/dri-in-polis"
+    date: "2025-04"
+    description: >
+      A repository of DRI experiments carried out by members of Metagov's
+      emerging "DRI in Polis" project, part of the "Interoperable Deliberative
+      Tools" topic area.
   # - title: ""
   #   website: ""
   #   source: ""
