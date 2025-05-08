@@ -159,6 +159,47 @@ content:
       Nexus is a full-stack application designed to facilitate group
       deliberation using AI. It draws inspiration from platforms like Polis and
       Community Notes by X.
+  - title: "Partici.app: Documentation Website"
+    website: "https://partici.app/"
+    source: "https://gitlab.com/particiapp/"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    date: "2025-02"
+    description: >
+      Documentation website for Partici.app, an alternative Polis frontend, build for the PolisNL project. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
+  - title: "Partici.app: Prod Demo"
+    website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
+    source: "https://gitlab.com/particiapp/particiapp-example-frontend"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    date: "2025-04"
+    description: >
+      A "production" demo Partici.app frontend for Polis, accessed via the ParticiAPI server. Part of PolisNL project.
+  - title: "Partici.app: Dev Demo"
+    website: "https://dev.partici.app/?base_url=https%3A%2F%2Fdev-api.partici.app&conversation_id=7jjupxtmzz"
+    source: "https://gitlab.com/particiapp/particiapp-example-frontend"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    date: "2025-05"
+    description: >
+      The bleeding-edge development demo of Partici.app and ParticiAPI. Part of PolisNL project.
+  - title: "Partici.app: Docker environment"
+    source: "https://gitlab.com/particiapp/particiapp-docker"
+    date: "2025-04"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    description: >
+      Support infrastructure to host Partici.app and their Polis fork.
+  - title: "ParticiAPI"
+    date: "2025-02"
+    website: "https://api.partici.app/api/conversations/8vwsnjphnz"
+    source: "https://gitlab.com/particiapp/particiapi"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    description: >
+      A server providing an alternative API on top of the Polis database, supporting third-party frontends for the Polis project.
+  - title: "Talk to the Government NL / Praat mee met de Overheid"
+    date: "2025-02"
+    website: "https://praatmeemetdeoverheid.nl/home"
+    source: "https://gitlab.com/particiapp/"
+    picture: "https://pilot.praatmeemetdeoverheid.nl/images/beter-logo.png"
+    description: >
+      A Polis implementation run by [ITSU](https://ictu.nl) for the Dutch Ministry of the Interior and Kingdom Relations, where partici.app components were used.
 #  - title: ""
 #    website: ""
 #    source: ""

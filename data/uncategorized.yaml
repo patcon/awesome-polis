@@ -265,54 +265,6 @@ content:
     date: "2023-12"
     description: >
       A Dutch working group for a Dutch version of Polis subsidised with the innovation fund afiliated to the Dutch Governement.
-  - title: "PolisNL Demo"
-    website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
-    source: "https://gitlab.com/betabreak/polispilot/demo"
-    date: "2024-06"
-    picture: "https://polisnl.org/user/themes/polis-nl/img/logo-polis-nl.svg"
-    description: >
-      PolisNL is a demo Partici.app frontend for Polis, accessed via the ParticiAPI server.
-  - title: "Partici.app: Documentation Website"
-    website: "https://partici.app/"
-    source: "https://gitlab.com/particiapp/"
-    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
-    date: "2025-02"
-    description: >
-      Documentation website for Partici.app, an alternative Polis frontend, build for the PolisNL project. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
-  - title: "Partici.app: Demo"
-    website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
-    source: "https://gitlab.com/particiapp/particiapp-example-frontend"
-    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
-    date: "2025-04"
-    description: >
-      A "production" demo Partici.app frontend for Polis, accessed via the ParticiAPI server. Part of PolisNL project.
-  - title: "Partici.app: Dev Demo"
-    website: "https://dev.partici.app/?base_url=https%3A%2F%2Fdev-api.partici.app&conversation_id=7jjupxtmzz"
-    source: "https://gitlab.com/particiapp/particiapp-example-frontend"
-    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
-    date: "2025-05"
-    description: >
-      The bleeding-edge development demo of Partici.app and ParticiAPI. Part of PolisNL project.
-  - title: "Partici.app: Docker environment"
-    source: "https://gitlab.com/particiapp/particiapp-docker"
-    date: "2025-04"
-    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
-    description: >
-      Support infrastructure to host Partici.app and their Polis fork.
-  - title: "ParticiAPI"
-    date: "2025-02"
-    website: "https://api.partici.app/api/conversations/8vwsnjphnz"
-    source: "https://gitlab.com/particiapp/particiapi"
-    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
-    description: >
-      A server providing an alternative API on top of the Polis database, supporting third-party frontends for the Polis project.
-  - title: "Praat mee met de Overheid"
-    date: "2025-02"
-    website: "https://pilot.praatmeemetdeoverheid.nl/"
-    source: "https://gitlab.com/particiapp/"
-    picture: "https://pilot.praatmeemetdeoverheid.nl/images/beter-logo.png"
-    description: >
-      A Polis implementation by the Dutch Ministry of the Interior and Kingdom Relations, where partici.app components where used.
   - title: "Decidim-EJ"
     date: "2024-08"
     source: "https://gitlab.com/lappis-unb/decidimbr/components-brasil-participativo/decidim-ej"
@@ -728,7 +680,14 @@ content:
       A repository of DRI experiments carried out by members of Metagov's
       emerging "DRI in Polis" project, part of the "Interoperable Deliberative
       Tools" topic area.
-  # - title: ""
+  - title: "Polis-like Opinion Landscape Painting"
+    source: "https://github.com/patcon/polislike-opinion-map-painting"
+    website: "https://patcon.github.io/polislike-opinion-map-painting/"
+    date: "2025-05"
+    picture: "/images/islands-bowling-green.jpg"
+    description: >
+      Experimental data-painting interface for exploring opinion landscapes
+      created from Polis-like wikisurvey data.
   #   website: ""
   #   source: ""
   #   picture: ""
