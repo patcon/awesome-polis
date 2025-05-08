@@ -259,7 +259,7 @@ content:
     picture: ""
     description: >
       Wrapper for Polis discussion on Code for NL.
-  - title: "PolisNL.nl"
+  - title: "PolisNL"
     website: "https://polisnl.org"
     picture: "https://polisnl.org/user/themes/polis-nl/img/logo-polis-nl.svg"
     date: "2023-12"
@@ -272,33 +272,40 @@ content:
     picture: "https://polisnl.org/user/themes/polis-nl/img/logo-polis-nl.svg"
     description: >
       PolisNL is a demo Partici.app frontend for Polis, accessed via the ParticiAPI server.
-  - title: "Partici.app"
+  - title: "Partici.app: Documentation Website"
+    website: "https://partici.app/"
+    source: "https://gitlab.com/particiapp/"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    date: "2025-02"
+    description: >
+      Documentation website for Partici.app, an alternative Polis frontend, build for the PolisNL project. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
+  - title: "Partici.app: Demo"
     website: "https://demo.partici.app/?base_url=https://api.partici.app/&conversation_id=8vwsnjphnz"
     source: "https://gitlab.com/particiapp/particiapp-example-frontend"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
-    date: "2024-06"
+    date: "2025-04"
     description: >
-      An Alternative Polis frontend, used in the PolisNL demo. ([Kanban board](https://gitlab.com/betabreak/polispilot/polis-innovation/-/boards))
-  - title: "Partici.app Docker"
+      A "production" demo Partici.app frontend for Polis, accessed via the ParticiAPI server. Part of PolisNL project.
+  - title: "Partici.app: Dev Demo"
+    website: "https://dev.partici.app/?base_url=https%3A%2F%2Fdev-api.partici.app&conversation_id=7jjupxtmzz"
+    source: "https://gitlab.com/particiapp/particiapp-example-frontend"
+    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
+    date: "2025-05"
+    description: >
+      The bleeding-edge development demo of Partici.app and ParticiAPI. Part of PolisNL project.
+  - title: "Partici.app: Docker environment"
     source: "https://gitlab.com/particiapp/particiapp-docker"
-    date: "2024-06"
+    date: "2025-04"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
       Support infrastructure to host Partici.app and their Polis fork.
   - title: "ParticiAPI"
-    date: "2024-06"
+    date: "2025-02"
     website: "https://api.partici.app/api/conversations/8vwsnjphnz"
     source: "https://gitlab.com/particiapp/particiapi"
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
       A server providing an alternative API on top of the Polis database, supporting third-party frontends for the Polis project.
-  - title: "Partici.App Documentation"
-    date: "2025-02"
-    website: "https://partici.app/"
-    source: "https://gitlab.com/particiapp/"
-    picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
-    description: >
-      The Partici.App documentation website for the PolisNL software project.
   - title: "Praat mee met de Overheid"
     date: "2025-02"
     website: "https://pilot.praatmeemetdeoverheid.nl/"
