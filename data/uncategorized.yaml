@@ -688,6 +688,14 @@ content:
     description: >
       Experimental data-painting interface for exploring opinion landscapes
       created from Polis-like wikisurvey data.
+  - title: "Universal Polis Wrapper"
+    source: "https://github.com/patcon/universal-polis-wrapper"
+    website: "https://patcon.github.io/universal-polis-wrapper/#wFXxYRdJ/2demo"
+    date: "2025-07"
+    description: >
+      A simple frontend wrapper that displays a Typeform survey first and then
+      automatically transitions to a Pol.is conversation embed once completed.
+
   #   website: ""
   #   source: ""
   #   picture: ""
