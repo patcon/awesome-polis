@@ -695,6 +695,20 @@ content:
     description: >
       A simple frontend wrapper that displays a Typeform survey first and then
       automatically transitions to a Pol.is conversation embed once completed.
+  - title: "SteamPolis"
+    source: "https://huggingface.co/spaces/npc0/SteamPolis/tree/main"
+    website: "https://huggingface.co/spaces/npc0/SteamPolis"
+    date: "2025-05"
+    description: >
+      A streamlit app hosted on huggingspace, experimenting with a text
+      adventure-based interface for collecting Polis data.
+  - title: "NewJerseyStyle/GamifyPolling"
+    source: "https://github.com/NewJerseyStyle/GamifyPolling"
+    website: ""
+    date: "2025-07"
+    description: >
+      A RPG and text adventure experience on polling. Inspired by Polis but
+      gamified, let's make Zork style great again!
 
   #   website: ""
   #   source: ""
