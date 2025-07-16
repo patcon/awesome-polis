@@ -704,11 +704,18 @@ content:
       adventure-based interface for collecting Polis data.
   - title: "NewJerseyStyle/GamifyPolling"
     source: "https://github.com/NewJerseyStyle/GamifyPolling"
-    website: ""
     date: "2025-07"
     description: >
       A RPG and text adventure experience on polling. Inspired by Polis but
       gamified, let's make Zork style great again!
+  - title: "social-protocols/propolis"
+    source: "https://github.com/social-protocols/propolis"
+    website: "https://propolis.fly.dev/"
+    date: "2024-01"
+    description: >
+      Enable useful discussions among thousands of people. Inspired by Polis,
+      the idea is to create a discussion interface which resembles the
+      mechanics of a real-world one-to-one discussion.
 
   #   website: ""
   #   source: ""
