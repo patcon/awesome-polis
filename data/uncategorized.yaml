@@ -716,6 +716,13 @@ content:
       Enable useful discussions among thousands of people. Inspired by Polis,
       the idea is to create a discussion interface which resembles the
       mechanics of a real-world one-to-one discussion.
+  - title: "Script: get-polis-convo-deets.sh"
+    picture: "https://raw.githubusercontent.com/patcon/get-polis-convo-deets.sh/refs/heads/main/screenshot.png"
+    source: "https://github.com/patcon/get-polis-convo-deets.sh"
+    date: "2025-08"
+    description: >
+      A little bash script to fetch data about Polis conversations from any
+      report or conversation URL.
 
   #   website: ""
   #   source: ""
