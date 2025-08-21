@@ -733,6 +733,16 @@ content:
       A prototype of a react component for presenting a Polis opinion graph
       interface outside of the Polis platform.
 
+  - title: "Demo: Kedro data pipeline"
+    picture: "/images/kedro-screenshot.png"
+    source: "https://github.com/patcon/kedro_polis_classic"
+    website: "https://patcon.github.io/kedro_polis_classic/"
+    date: "2025-07"
+    description: >
+      A proof-of-concept for starting to encode the Polis data pipeline within
+      the Kedro pipeline tool, which allows visualization and inspection of
+      intermediates in a data processing pipeline.
+
   #   website: ""
   #   source: ""
   #   picture: ""
