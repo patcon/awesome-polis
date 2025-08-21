@@ -193,6 +193,7 @@ content:
     picture: "https://gitlab.com/betabreak/polispilot/demo/-/raw/master/images/logo.svg?ref_type=heads"
     description: >
       A server providing an alternative API on top of the Polis database, supporting third-party frontends for the Polis project.
+
   - title: "Talk to the Government NL / Praat mee met de Overheid"
     date: "2025-02"
     website: "https://praatmeemetdeoverheid.nl/home"
@@ -200,6 +201,14 @@ content:
     picture: "https://pilot.praatmeemetdeoverheid.nl/images/beter-logo.png"
     description: >
       A Polis implementation run by [ITSU](https://ictu.nl) for the Dutch Ministry of the Interior and Kingdom Relations, where partici.app components were used.
+
+  - title: "Fork: Blacksky Community Assembly"
+    date: "2025-08"
+    website: "https://assembly.blacksky.community/"
+    source: "https://github.com/blacksky-algorithms/assembly.blacksky.community"
+    description: >
+      A polis instance for coordinating the Blacksky community assembly.
+
 #  - title: ""
 #    website: ""
 #    source: ""
