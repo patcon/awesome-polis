@@ -724,6 +724,15 @@ content:
       A little bash script to fetch data about Polis conversations from any
       report or conversation URL.
 
+  - title: "react-polis-opinion-graph"
+    picture: "https://raw.githubusercontent.com/patcon/react-polis-opinion-graph/refs/heads/main/react-opinion-graph-screenshot.png"
+    source: "https://github.com/patcon/react-polis-opinion-graph"
+    website: "https://patcon.github.io/react-polis-opinion-graph/?dataset=6jrufhr6dp"
+    date: "2025-08"
+    description: >
+      A prototype of a react component for presenting a Polis opinion graph
+      interface outside of the Polis platform.
+
   #   website: ""
   #   source: ""
   #   picture: ""
