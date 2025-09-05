@@ -743,6 +743,14 @@ content:
       the Kedro pipeline tool, which allows visualization and inspection of
       intermediates in a data processing pipeline.
 
+  - title: "Cosense.us"
+    source: "https://github.com/omniharmonic/cosenseus"
+    website: "https://www.youtube.com/watch?v=Mw0AmxaI4Wo"
+    date: "2025-07"
+    description: >
+      CoSenseus is an AI-enabled and Polis-inspired dialogue tool for building
+      consensus through generative conversation.
+
   #   website: ""
   #   source: ""
   #   picture: ""
