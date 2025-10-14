@@ -204,6 +204,8 @@ Readme and the website are automatically generated. In order to add an element t
 - 2024-11: [WePublish](https://wepublish.ch/fr/) - Open Source Headless CMS for Publishers and News Rooms, integrating Polis. Created in Switzerland. [Source](https://github.com/wepublish/wepublish)
 - 2022-08: [Wikipedia: https://en.wikipedia.org/wiki/Wiki_survey](https://en.wikipedia.org/wiki/Wiki_survey) - A Wikipedia entry originally created by Nicolas Perez, a member of the Polis User Group (PUG) community, giving Polis its first dedicated section on the platform. [Source](https://docs.google.com/document/d/1HUx8ClEF-95t38k8uaCdx3AeReBs3w9OoerSYFPOYT4/edit)
 - 2025-03: [undefined](https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55) - Jigsaw’s Sensemaking tools help make sense of large-scale online conversations, leveraging LLMs to categorize statements, and summarize statements and voting patterns to surface actionable insights. Uses Polis computational metrics and imports. [Source](https://github.com/Jigsaw-Code/sensemaking-tools)
+- 2025-07: [XRUK: Guide to Polis for XR](https://rebeltoolkit.extinctionrebellion.uk/books/guide-to-polis-for-xr) - A Guide written from the perspective of participants and facilitators, with a focus on softer social aspects.
+- 2025-07: [XRUK: Movement Assembly #1 Guide & Process](https://rebeltoolkit.extinctionrebellion.uk/books/movement-assemblies) - Extinction Rebellion UK ran a "Movement Assembly" that involved a critical Polis phase. This is the summary of their process and results.
 
 ## Official
 
