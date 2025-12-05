@@ -733,15 +733,23 @@ content:
       A prototype of a react component for presenting a Polis opinion graph
       interface outside of the Polis platform.
 
-  - title: "Demo: Kedro data pipeline"
+  - title: "Demo: kedro-polislike-pipelines"
     picture: "/images/kedro-screenshot.png"
-    source: "https://github.com/patcon/kedro_polis_classic"
-    website: "https://patcon.github.io/kedro_polis_classic/"
+    source: "https://github.com/patcon/kedro-polislike-pipelines"
+    website: "https://patcon.github.io/kedro_polislike-pipelines"
     date: "2025-07"
     description: >
       A proof-of-concept for starting to encode the Polis data pipeline within
       the Kedro pipeline tool, which allows visualization and inspection of
       intermediates in a data processing pipeline.
+
+  - title: "GitHub topic: kedro-polislike-pipelines"
+    picture: "/images/kedro-screenshot.png"
+    website: "https://github.com/topics/kedro-polislike-pipelines"
+    date: "2025-12"
+    description: >
+      A list of all processes conversations created by using the
+      kedro-polislike-pipelines repo as a template.
 
   - title: "Cosense.us"
     source: "https://github.com/omniharmonic/cosenseus"
@@ -764,6 +772,70 @@ content:
     description: >
       A Guide written from the perspective of participants and facilitators,
       with a focus on softer social aspects.
+
+  - title: "Prototype: YouTube Synchronous Voting"
+    website: "https://patcon.github.io/youtube-polislike/#0WEC6Fl-JAw"
+    source: "https://github.com/patcon/youtube-polislike"
+    date: "2025-12"
+    description: >
+      Prototype for collecting polislike reaction data while watching YouTube videos.
+
+  - title: "Prototype: Comment Routing Explorer"
+    website: "https://patcon.github.io/polislike-comment-routing-explorer/"
+    source: "https://github.com/patcon/polislike-comment-routing-explorer"
+    date: "2025-12"
+    description: >
+      Simple webapp for exploring the effects of tuning settings for "adaptive
+      statement ordering".
+
+  - title: "Prototype: Voting via hardware buttons"
+    website: "https://patcon.github.io/polis-media-session-test-app/"
+    source: "https://github.com/patcon/polis-media-session-test-app"
+    date: "2025-12"
+    description: >
+      A prototype to show how the media session HTML standards can be used to
+      hijack track selection and play/pause for agree/disagree/pass actions.
+
+  - title: "Prototype: Polislike Reaction Vote Canvas"
+    website: "https://polislike-partykit-reaction-canvas.patcon.partykit.dev/?room=3ntrtcehas&ghostCursors=true"
+    source: "https://github.com/patcon/polislike-partykit-reaction-canvas"
+    date: "2025-12"
+    description: >
+      Prototype for showing how realtime cursors can allow synchronous voting
+      via "thumb swarm" on phone screens. See README to access admin screen
+      demo.
+
+  - title: "Typescript/Javascript API Client library"
+    website: "https://jsfiddle.net/patcon/yjq2aebh/latest"
+    source: "https://github.com/patcon/polis-client/tree/main/typescript"
+    date: "2025-12"
+    description: >
+      Typescript/Javascript API client library for interaction with any Polis server, either anonymous or authenticated.
+      Works from client browser (compiled or from CDN) or on server (node).
+      Built from a common OpenAPI spec file.
+
+  - title: "Python API Client library"
+    website: "https://github.com/patcon/polis-client/blob/main/python/examples.ipynb"
+    source: "https://github.com/patcon/polis-client/tree/main/python"
+    date: "2025-12"
+    description: >
+      Python API client library for interaction with any Polis server, either anonymous or authenticated.
+      Built from a common OpenAPI spec file.
+
+  - title: "Prototype: Polislike Perspective Map Explorer (v2)"
+    website: "https://patcon.github.io/polislike-human-cartography-prototype-v2/"
+    source: "https://github.com/patcon/polislike-human-cartography-prototype-v2"
+    date: "2025-12"
+    description: >
+      foo
+
+  - title: "Polis Drupal module"
+    website: "https://www.unocha.org/listening-channel"
+    source: "https://github.com/UN-OCHA/ocha_visualisations/tree/main/modules/ocha_polis"
+    date: "2025-12"
+    description: >
+      Drupal module for embedding Polis conversations, used by the United
+      Nations Office for the Coordination of Humanitarian Affairs (UNOCHA).
 
   #   website: ""
   #   source: ""

@@ -209,6 +209,23 @@ content:
     description: >
       A polis instance for coordinating the Blacksky community assembly.
 
+
+  - title: "Frontend Fork: Polis Japan"
+    date: "2025-12"
+    website: "https://pol-is.jp/"
+    source: "https://github.com/PolisJAPAN/PolisJAPAN"
+    description: >
+      A domestic promotion project for Polis in Japan. Uses pol.is server for
+      data.
+
+  - title: "Fork: Voxit"
+    date: "2025-12"
+    website: "https://voxit.sitra.fi/home"
+    source: "https://gitlab.com/voxit/voxit/"
+    description: >
+      Fork of Polis created by the Finnish federal innovation fund, SITRA. New
+      frontend.
+
 #  - title: ""
 #    website: ""
 #    source: ""
